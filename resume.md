@@ -65,7 +65,7 @@ GitHub   <https://github.com/vaibhavsagar>
 
 2011 CECS Faculty Head, John XXIII College.
 
-2008 Senior School Prefect, Gandhi Memorial International School.
+2009 Senior School Prefect, Gandhi Memorial International School.
 
      Senior School House Captain, Gandhi Memorial International School.
 ---- ---------------------------------------------------------------------------
