@@ -65,8 +65,8 @@ $endif$
 $if(tables)$
 \usepackage{longtable,booktabs}
 \setlength\heavyrulewidth{0pt}
-\setlength{\LTpre}{2pt}
-\setlength{\LTpost}{2pt}
+\setlength{\LTpre}{0pt}
+\setlength{\LTpost}{0pt}
 $endif$
 $if(graphics)$
 \usepackage{graphicx}
@@ -116,7 +116,7 @@ $if(strikeout)$
 \pdfstringdefDisableCommands{\renewcommand{\sout}{}}
 $endif$
 \setlength{\parindent}{0pt}
-\setlength{\parskip}{2pt}
+\setlength{\parskip}{0pt}
 \setlength{\emergencystretch}{3em}  % prevent overfull lines
 $if(numbersections)$
 \setcounter{secnumdepth}{5}
@@ -149,7 +149,7 @@ $endif$
 
 \begin{document}
 $if(title)$
-\setlength{\droptitle}{-2em}
+\setlength{\droptitle}{-3em}
 \posttitle{\par\end{center}}
 \preauthor{}
 \postauthor{}
