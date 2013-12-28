@@ -1,7 +1,5 @@
 % Vaibhav Sagar
 
-
-
 ### CONTACT ###
 
 -------- -----------------------------------------------------------------------
@@ -70,8 +68,6 @@ GitHub   <https://github.com/vaibhavsagar>
      Senior School House Captain, Gandhi Memorial International School.
 ---- ---------------------------------------------------------------------------
 
-\pagebreak
-
 ### AWARDS ###
 ---- ---------------------------------------------------------------------------
 2011 Thomas Hegarty Scholarship, John XXIII College - Best Performing Resident 
@@ -81,6 +77,7 @@ GitHub   <https://github.com/vaibhavsagar>
 
 2010 ANU College of Engineering and Computer Science Dean's List
 ---- --------------------------------------------------------------------------- 
+
 
 ### EDUCATION ###
 
