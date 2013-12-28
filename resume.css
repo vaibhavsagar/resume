@@ -66,6 +66,11 @@ dd p {
         margin-top: 0;
 }
 
+td
+{
+    vertical-align:top;
+}
+
 #footer {
         padding-top: 1em;
         font-size: 70%;
