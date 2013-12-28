@@ -106,4 +106,10 @@ Miscellaneous          Basic web design, computer and network troubleshooting.
 
 ### LANGUAGES ###
 
-English, Hindi, and Bahasa Indonesia.
+------------ -------------------------------------------------------------------
+Native       English
+
+Advanced     Hindi
+
+Intermediate Bahasa Indonesia
+------------ -------------------------------------------------------------------
