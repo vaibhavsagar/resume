@@ -29,7 +29,7 @@ GitHub   <https://github.com/vaibhavsagar>
     
 2012 *Intern* at Gupshup Indonesia (December 2012--January 2013). Used and 
      promoted a new social media service.  
-    
+     
      *Tutor* at ANU (February--June) for COMP1100 Introduction to Programming
      and Algorithms.  
    
@@ -82,26 +82,27 @@ GitHub   <https://github.com/vaibhavsagar>
 
 
 ### EDUCATION ###
+---- ---------------------------------------------------------------------------
+2013 B. Economics/B. IT (Software Development), Australian National University. 
 
-**B. Economics/B. IT (Software Development), Australian National University, 
-Class of 2013.**  
-
-**International Baccalaureate (IB) Diploma, Gandhi Memorial International 
-School, Jakarta, Class of 2009.** Subjects: Economics HL, Mathematics HL, 
-Physics HL, Chemistry HL, English A SL, Hindi SL.
+2009 IB (International Baccalaureate) Diploma, Gandhi Memorial International 
+     School, Jakarta. Subjects: Economics HL, Mathematics HL, Physics HL, 
+     Chemistry HL, English A SL, Hindi SL.
+---- ---------------------------------------------------------------------------
 
 ### SKILLS ###
+---------------------- ---------------------------------------------------------
+Computer Hardware      Assembly and basic maintenance of desktop and laptop 
+                       computers.  
 
-**Computer Hardware**: Disassembly, reassembly and basic maintenance of 
-desktop and laptop computers.  
+Programming Languages  Proficient in Python. Familiar with C, ChucK, 
+                       Haskell, and Java.  
 
-**Programming Languages**: Proficient in Python. Familiar with C, ChucK, 
-Haskell, and Java.  
+Systems Administration Active Directory, Exchange etc. Limited experience on 
+                       Linux.
 
-**Systems Administration**: Microsoft: Active Directory, Exchange etc. 
-Linux: Limited experience with Bash and Vagrant/Virtualbox.
-
-**Other**: Basic web design, computer and network troubleshooting.
+Miscellaneous          Basic web design, computer and network troubleshooting.
+---------------------- ---------------------------------------------------------
 
 ### LANGUAGES ###
 

@@ -64,6 +64,7 @@ $endif$
 $if(tables)$
 \usepackage{longtable,booktabs}
 \setlength\heavyrulewidth{0pt}
+%\setlength{\tabcolsep}{3pt}
 \setlength{\LTpre}{0pt}
 \setlength{\LTpost}{0pt}
 $endif$
@@ -146,7 +147,6 @@ $if(subtitle)$
 $endif$
 \author{$for(author)$$author$$sep$ \and $endfor$}
 \date{$date$}
-\pagenumbering{gobble}
 
 \begin{document}
 $if(title)$
@@ -157,6 +157,8 @@ $if(title)$
 \predate{}
 \postdate{}
 \maketitle
+\thispagestyle{empty}
+\pagestyle{empty}
 $endif$
 
 $for(include-before)$
