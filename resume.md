@@ -1,6 +1,6 @@
 % Vaibhav Sagar
 
-### CONTACT ###
+### Contact ###
 -------- -----------------------------------------------------------------------
 Phone    +61425059241
 
@@ -11,7 +11,7 @@ LinkedIn <http://au.linkedin.com/in/vaibhavsagar/>
 GitHub   <https://github.com/vaibhavsagar>
 -------- -----------------------------------------------------------------------
 
-### EXPERIENCE ###
+### Experience ###
 ---- ---------------------------------------------------------------------------
 2013 *Vacation Scholar* at CSIRO (November 2013--February 2014). Supervised
      by Armin Haller.  
@@ -53,7 +53,7 @@ GitHub   <https://github.com/vaibhavsagar>
 ---- ---------------------------------------------------------------------------     
 
 
-### POSITIONS ###
+### Positions ###
 ---- ---------------------------------------------------------------------------
 2013 CECS SRC Third Year Representative, ANU.
    
@@ -70,7 +70,7 @@ GitHub   <https://github.com/vaibhavsagar>
      House Captain, Gandhi Memorial International School.
 ---- ---------------------------------------------------------------------------
 
-### AWARDS ###
+### Awards ###
 ---- ---------------------------------------------------------------------------
 2011 Thomas Hegarty Scholarship, John XXIII College - Best Performing Resident 
      in 2010.
@@ -81,7 +81,7 @@ GitHub   <https://github.com/vaibhavsagar>
 ---- --------------------------------------------------------------------------- 
 
 
-### EDUCATION ###
+### Education ###
 ---- ---------------------------------------------------------------------------
 2013 B. Economics/B. IT (Software Development), Australian National University. 
 
@@ -90,7 +90,7 @@ GitHub   <https://github.com/vaibhavsagar>
      Chemistry HL, English A SL, Hindi SL.
 ---- ---------------------------------------------------------------------------
 
-### SKILLS ###
+### Skills ###
 ---------------------- ---------------------------------------------------------
 Computer Hardware      Assembly and basic maintenance of desktop and laptop 
                        computers.  
@@ -104,7 +104,7 @@ Systems Administration Active Directory, Exchange etc. Limited experience on
 Miscellaneous          Basic web design, computer and network troubleshooting.
 ---------------------- ---------------------------------------------------------
 
-### LANGUAGES ###
+### Languages ###
 
 ------------ -------------------------------------------------------------------
 Native       English
