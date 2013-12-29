@@ -79,7 +79,7 @@ GitHub   <https://github.com/vaibhavsagar>
 2011 Thomas Hegarty Scholarship, John XXIII College - Best Performing Resident 
      in 2010.
    
-     John XXIII College - Best Performing First Year Resident in 2010.
+     Best Performing First Year Resident in 2010, John XXIII College.
 
 2010 ANU College of Engineering and Computer Science Dean's List
 ---- --------------------------------------------------------------------------- 
