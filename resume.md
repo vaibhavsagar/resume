@@ -17,7 +17,7 @@ GitHub   <https://github.com/vaibhavsagar>
      by Armin Haller.  
 
      *Student Ambassador* for CECS (College of Engineering and Computer 
-     Science) at ANU (March--November). Selected to represent the College for 
+     Science) ANU (March--November). Selected to represent the College for 
      various recruitment events and activities around Australia, to share 
      knowledge with prospective students based on my experience at ANU, and talk
      to prospective students about living in Canberra.  
@@ -30,8 +30,8 @@ GitHub   <https://github.com/vaibhavsagar>
 2012 *Intern* at Gupshup Indonesia (December 2012--January 2013). Used and 
      promoted a new social media service.  
      
-     *Tutor* at ANU (February--June) for COMP1100 Introduction to Programming
-     and Algorithms.  
+     *Tutor* at CECS ANU (February--June) for COMP1100 Introduction to 
+     Programming and Algorithms.
    
      *IT Administrator* at John XXIII College (February--November). Head of IT 
      team for maintenance of systems at College and IT support for residents.
@@ -49,7 +49,7 @@ GitHub   <https://github.com/vaibhavsagar>
 
 
 2009 *Intern* at Kimberly--Clarke (September). Completed a range of tasks 
-     from data entry and translation to brainstorming marketing ideas.
+     including data entry, translation and brainstorming marketing ideas.
 ---- ---------------------------------------------------------------------------     
 
 
