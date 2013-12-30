@@ -152,7 +152,7 @@ Education
 </tr>
 <tr class="even">
 <td align="left">2009</td>
-<td align="left">IB (International Baccalaureate) Diploma, Gandhi Memorial International School, Jakarta. Subjects: Economics HL, Mathematics HL, Physics HL, Chemistry HL, English A SL, Hindi SL.</td>
+<td align="left">IB (International Baccalaureate) Diploma, Gandhi Memorial International School, Jakarta. Subjects: HL Economics, Mathematics, Physics, and Chemistry; SL English A1 and Hindi B.</td>
 </tr>
 </tbody>
 </table>

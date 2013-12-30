@@ -90,8 +90,8 @@ GitHub   <https://github.com/vaibhavsagar>
 2013 B. Economics/B. IT (Software Development), Australian National University. 
 
 2009 IB (International Baccalaureate) Diploma, Gandhi Memorial International 
-     School, Jakarta. Subjects: Economics HL, Mathematics HL, Physics HL, 
-     Chemistry HL, English A SL, Hindi SL.
+     School, Jakarta. Subjects: HL Economics, Mathematics, Physics, and 
+     Chemistry; SL English A1 and Hindi B.
 ---- ---------------------------------------------------------------------------
 
 ## Skills ##
