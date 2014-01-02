@@ -105,7 +105,7 @@ Programming Languages  Proficient in Python. Familiar with C, ChucK,
 Systems Administration Active Directory, Exchange etc. Limited experience on 
                        Linux.
 
-Miscellaneous          Basic web design, computer and network troubleshooting.
+Miscellaneous          Basic HTML/CSS/JS, computer and network troubleshooting.
 ---------------------- ---------------------------------------------------------
 
 ## Languages ##
