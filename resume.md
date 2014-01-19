@@ -19,8 +19,8 @@ GitHub   <https://github.com/vaibhavsagar>
      *Student Ambassador* for CECS (College of Engineering and Computer 
      Science) ANU (March--November). Selected to represent the College for 
      various recruitment events and activities around Australia, to share 
-     knowledge with prospective students based on my experience at ANU, and talk
-     to prospective students about living in Canberra.  
+     knowledge with prospective students based on my experience at ANU, and 
+     talk to prospective students about living in Canberra.  
     
      *Senior IT Consultant* at John XXIII College (February--November). 
      Selected as part of IT team for maintenance of systems at College and IT 
@@ -109,7 +109,6 @@ Miscellaneous          Basic HTML/CSS/JS, computer and network troubleshooting.
 ---------------------- ---------------------------------------------------------
 
 ## Languages ##
-
 ------------ -------------------------------------------------------------------
 Native       English
 
