@@ -86,7 +86,6 @@ GitHub   <https://github.com/vaibhavsagar>
 2010 ANU College of Engineering and Computer Science Dean's List
 ---- --------------------------------------------------------------------------
 
-
 ## Education ##
 ---- --------------------------------------------------------------------------
 2013 B. Economics/B. IT (Software Development), Australian National University.
