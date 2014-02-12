@@ -38,7 +38,7 @@ Experience
 <tbody>
 <tr class="odd">
 <td align="left">2013</td>
-<td align="left"><em>Vacation Scholar</em> at CSIRO (November 2013--February 2014). Developed a proof of concept for a RESTful workflow engine in a continuation-passing style using semantic web technologies.</td>
+<td align="left"><em>Vacation Scholar</em> at CSIRO (November 2013--February 2014). Developed a workflow engine to connect RESTful web services together in a continuation-passing style using semantic web technologies.</td>
 </tr>
 <tr class="even">
 <td align="left"></td>

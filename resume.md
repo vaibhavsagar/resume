@@ -14,7 +14,7 @@ GitHub   <https://github.com/vaibhavsagar>
 ## Experience ##
 ---- --------------------------------------------------------------------------
 2013 *Vacation Scholar* at CSIRO (November 2013--February 2014). Developed
-     a proof of concept for a RESTful workflow engine in a
+     a workflow engine to connect RESTful web services together in a
      continuation-passing style using semantic web technologies.
 
      *Student Ambassador* for CECS (College of Engineering and Computer
