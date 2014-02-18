@@ -13,6 +13,9 @@ GitHub   <https://github.com/vaibhavsagar>
 
 ## Experience ##
 ---- --------------------------------------------------------------------------
+2014 *Tutor* at CECS ANU (February--June) for COMP1100 Introduction to
+     Programming and Algorithms.
+
 2013 *Vacation Scholar* at CSIRO (November 2013--February 2014). Developed
      a workflow engine to connect RESTful web services together in a
      continuation-passing style using semantic web technologies.
@@ -70,10 +73,6 @@ GitHub   <https://github.com/vaibhavsagar>
      CECS Academic Mentor, John XXIII College.
 
 2011 CECS Faculty Head, John XXIII College.
-
-2008 Prefect, Gandhi Memorial International School.
-
-     House Captain, Gandhi Memorial International School.
 ---- --------------------------------------------------------------------------
 
 ## Awards ##
