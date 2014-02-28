@@ -13,7 +13,8 @@ GitHub   <https://github.com/vaibhavsagar>
 
 ## Experience ##
 ---- --------------------------------------------------------------------------
-2014 *Volunteer Fellow* at CSIRO (February--Present).
+2014 *Volunteer Fellow* at CSIRO (February--Present). Developing a workflow
+     engine for RESTful web services using semantic web technologies.
 
      *Tutor* at CECS (ANU College of Engineering and Computer Science)
      (February--June) for COMP1100 Introduction to Programming and Algorithms.
