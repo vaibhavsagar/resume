@@ -13,26 +13,27 @@ GitHub   <https://github.com/vaibhavsagar>
 
 ## Experience ##
 ---- --------------------------------------------------------------------------
-2014 *Tutor* at CECS ANU (February--June) for COMP1100 Introduction to
-     Programming and Algorithms.
+2014 *Volunteer Fellow* at CSIRO (February--Present).
+
+     *Tutor* at CECS (ANU College of Engineering and Computer Science)
+     (February--June) for COMP1100 Introduction to Programming and Algorithms.
 
 2013 *Vacation Scholar* at CSIRO (November 2013--February 2014). Developed
-     a workflow engine to connect RESTful web services together in a
-     continuation-passing style using semantic web technologies.
+     a workflow engine for RESTful web services using semantic web
+     technologies.
 
-     *Student Ambassador* for CECS (College of Engineering and Computer
-     Science) ANU (March--November). Selected to represent the College for
-     various recruitment events and activities around Australia, to share
-     knowledge with prospective students based on my experience at ANU, and
-     talk to prospective students about living in Canberra. Also ran labs in
-     Processing for high schoolers as an introduction to programming.
+     *Student Ambassador* for CECS (March--November). Selected to represent the
+     College for various recruitment events and activities around Australia, to
+     share knowledge with prospective students based on my experience at ANU,
+     and talk to prospective students about living in Canberra. Also ran labs
+     in Processing for high schoolers as an introduction to programming.
 
      *Senior IT Consultant* at John XXIII College (February--November).
      Selected as part of IT team for maintenance of systems at College and IT
      support for residents.
 
 
-2012 *Tutor* at CECS ANU (February--June) for COMP1100 Introduction to
+2012 *Tutor* at CECS (February--June) for COMP1100 Introduction to
      Programming and Algorithms.
 
      *IT Administrator* at John XXIII College (February--November). Head of IT
@@ -61,6 +62,7 @@ GitHub   <https://github.com/vaibhavsagar>
      entry, translation and brainstorming marketing ideas.
 ---- --------------------------------------------------------------------------
 
+\pagebreak
 
 ## Positions ##
 ---- --------------------------------------------------------------------------

@@ -38,29 +38,33 @@ Experience
 <tbody>
 <tr class="odd">
 <td align="left">2014</td>
-<td align="left"><em>Tutor</em> at CECS ANU (February--June) for COMP1100 Introduction to Programming and Algorithms.</td>
+<td align="left"><em>Volunteer Fellow</em> at CSIRO (February--Present).</td>
 </tr>
 <tr class="even">
-<td align="left">2013</td>
-<td align="left"><em>Vacation Scholar</em> at CSIRO (November 2013--February 2014). Developed a workflow engine to connect RESTful web services together in a continuation-passing style using semantic web technologies.</td>
+<td align="left"></td>
+<td align="left"><em>Tutor</em> at CECS (ANU College of Engineering and Computer Science) (February--June) for COMP1100 Introduction to Programming and Algorithms.</td>
 </tr>
 <tr class="odd">
-<td align="left"></td>
-<td align="left"><em>Student Ambassador</em> for CECS (College of Engineering and Computer Science) ANU (March--November). Selected to represent the College for various recruitment events and activities around Australia, to share knowledge with prospective students based on my experience at ANU, and talk to prospective students about living in Canberra. Also ran labs in Processing for high schoolers as an introduction to programming.</td>
+<td align="left">2013</td>
+<td align="left"><em>Vacation Scholar</em> at CSIRO (November 2013--February 2014). Developed a workflow engine for RESTful web services using semantic web technologies.</td>
 </tr>
 <tr class="even">
+<td align="left"></td>
+<td align="left"><em>Student Ambassador</em> for CECS (March--November). Selected to represent the College for various recruitment events and activities around Australia, to share knowledge with prospective students based on my experience at ANU, and talk to prospective students about living in Canberra. Also ran labs in Processing for high schoolers as an introduction to programming.</td>
+</tr>
+<tr class="odd">
 <td align="left"></td>
 <td align="left"><em>Senior IT Consultant</em> at John XXIII College (February--November). Selected as part of IT team for maintenance of systems at College and IT support for residents.</td>
 </tr>
-<tr class="odd">
-<td align="left">2012</td>
-<td align="left"><em>Tutor</em> at CECS ANU (February--June) for COMP1100 Introduction to Programming and Algorithms.</td>
-</tr>
 <tr class="even">
+<td align="left">2012</td>
+<td align="left"><em>Tutor</em> at CECS (February--June) for COMP1100 Introduction to Programming and Algorithms.</td>
+</tr>
+<tr class="odd">
 <td align="left"></td>
 <td align="left"><em>IT Administrator</em> at John XXIII College (February--November). Head of IT team for maintenance of systems at College and IT support for residents. Kept college administration computer systems running smoothly and oversaw transition to external service provider.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2011</td>
 <td align="left"><em>IT Consultant</em> at John XXIII College (February--November). Selected as part of IT team for maintenance of systems at College and IT support for residents.</td>
 </tr>
