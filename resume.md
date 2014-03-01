@@ -19,6 +19,7 @@ GitHub   <https://github.com/vaibhavsagar>
      *Tutor* at CECS (ANU College of Engineering and Computer Science)
      (February--June) for COMP1100 Introduction to Programming and Algorithms.
 
+
 2013 *Vacation Scholar* at CSIRO (November 2013--February 2014). Developed
      a workflow engine for RESTful web services using semantic web
      technologies.
@@ -71,9 +72,11 @@ GitHub   <https://github.com/vaibhavsagar>
 
      CECS Academic Mentor, John XXIII College.
 
+
 2012 ANUSA CECS Faculty Representative.
 
      CECS Academic Mentor, John XXIII College.
+
 
 2011 CECS Faculty Head, John XXIII College.
 ---- --------------------------------------------------------------------------
@@ -85,12 +88,14 @@ GitHub   <https://github.com/vaibhavsagar>
 
      Best Performing First Year Resident in 2010, John XXIII College.
 
+
 2010 ANU College of Engineering and Computer Science Dean's List
 ---- --------------------------------------------------------------------------
 
 ## Education ##
 ---- --------------------------------------------------------------------------
 2013 B. Economics/B. IT (Software Development), Australian National University.
+
 
 2009 IB (International Baccalaureate) Diploma, Gandhi Memorial International
      School, Jakarta. Subjects: HL Economics, Mathematics, Physics, and
