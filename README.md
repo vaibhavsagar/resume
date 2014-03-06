@@ -88,7 +88,7 @@ Internships
 </tr>
 <tr class="odd">
 <td align="left">2009</td>
-<td align="left">Kimberly--Clarke (September). Completed a range of tasks including data entry, translation and brainstorming marketing ideas.</td>
+<td align="left">Kimberly--Clark (September). Completed a range of tasks including data entry, translation and brainstorming marketing ideas.</td>
 </tr>
 </tbody>
 </table>
