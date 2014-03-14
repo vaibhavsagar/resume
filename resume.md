@@ -11,6 +11,9 @@ LinkedIn <http://au.linkedin.com/in/vaibhavsagar/>
 GitHub   <https://github.com/vaibhavsagar>
 -------- ----------------------------------------------------------------------
 
+## Objective ##
+Realise the potential of technology to improve lives and bottom lines.
+
 ## Experience ##
 ---- --------------------------------------------------------------------------
 2014 *Volunteer Fellow* at CSIRO (February--Present). Developing a workflow
@@ -60,7 +63,7 @@ GitHub   <https://github.com/vaibhavsagar>
      documentation.
 
 
-2009 Kimberly--Clark (September). Completed a range of tasks including data
+2009 Kimberly-Clark (September). Completed a range of tasks including data
      entry, translation and brainstorming marketing ideas.
 ---- --------------------------------------------------------------------------
 

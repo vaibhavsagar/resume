@@ -29,6 +29,11 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
 </tbody>
 </table>
 
+Objective
+---------
+
+Realise the potential of technology to improve lives and bottom lines.
+
 Experience
 ----------
 
@@ -88,7 +93,7 @@ Internships
 </tr>
 <tr class="odd">
 <td align="left">2009</td>
-<td align="left">Kimberly--Clark (September). Completed a range of tasks including data entry, translation and brainstorming marketing ideas.</td>
+<td align="left">Kimberly-Clark (September). Completed a range of tasks including data entry, translation and brainstorming marketing ideas.</td>
 </tr>
 </tbody>
 </table>
