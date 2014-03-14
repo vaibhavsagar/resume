@@ -32,7 +32,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
 Objective
 ---------
 
-Realise the potential of technology to improve lives and bottom lines.
+Realise the potential of information technology to improve lives and bottom lines.
 
 Experience
 ----------

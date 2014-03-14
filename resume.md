@@ -12,7 +12,8 @@ GitHub   <https://github.com/vaibhavsagar>
 -------- ----------------------------------------------------------------------
 
 ## Objective ##
-Realise the potential of technology to improve lives and bottom lines.
+Realise the potential of information technology to improve lives and bottom
+lines.
 
 ## Experience ##
 ---- --------------------------------------------------------------------------
