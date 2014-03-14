@@ -17,7 +17,7 @@ lines.
 
 ## Experience ##
 ---- --------------------------------------------------------------------------
-2014 *Volunteer Fellow* at CSIRO (February--Present). Developing a workflow
+2014 *Volunteer Fellow* at CSIRO (February--). Developing a workflow
      engine for RESTful web services using semantic web technologies.
 
      *Tutor* at CECS (ANU College of Engineering and Computer Science)

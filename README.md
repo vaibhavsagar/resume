@@ -43,7 +43,7 @@ Experience
 <tbody>
 <tr class="odd">
 <td align="left">2014</td>
-<td align="left"><em>Volunteer Fellow</em> at CSIRO (February--Present). Developing a workflow engine for RESTful web services using semantic web technologies.</td>
+<td align="left"><em>Volunteer Fellow</em> at CSIRO (February--). Developing a workflow engine for RESTful web services using semantic web technologies.</td>
 </tr>
 <tr class="even">
 <td align="left"></td>
