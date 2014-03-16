@@ -102,8 +102,7 @@ lines.
 
 
 2009 IB (International Baccalaureate) Diploma, Gandhi Memorial International
-     School, Jakarta. Subjects: HL Economics, Mathematics, Physics, and
-     Chemistry; SL English A1 and Hindi B.
+     School, Jakarta.
 ---- --------------------------------------------------------------------------
 
 ## Skills ##
