@@ -1,6 +1,8 @@
 % Vaibhav Sagar
 
+
 ## Contact ##
+
 -------- ----------------------------------------------------------------------
 Phone    +61425059241
 
@@ -12,10 +14,12 @@ GitHub   <https://github.com/vaibhavsagar>
 -------- ----------------------------------------------------------------------
 
 ## Objective ##
+
 Realise the potential of information technology to improve lives and bottom
 lines.
 
 ## Experience ##
+
 ---- --------------------------------------------------------------------------
 2014 *Volunteer Fellow* at CSIRO (February--). Developing a workflow
      engine for RESTful web services using semantic web technologies.
@@ -54,6 +58,7 @@ lines.
 ---- --------------------------------------------------------------------------
 
 ## Internships ##
+
 ---- --------------------------------------------------------------------------
 2012 Gupshup Indonesia (December 2012--January 2013). Used and promoted a new
      social media service.
@@ -71,6 +76,7 @@ lines.
 \pagebreak
 
 ## Positions ##
+
 ---- --------------------------------------------------------------------------
 2013 CECS SRC Third Year Representative, ANU.
 
@@ -86,6 +92,7 @@ lines.
 ---- --------------------------------------------------------------------------
 
 ## Awards ##
+
 ---- --------------------------------------------------------------------------
 2011 Thomas Hegarty Scholarship, John XXIII College - Best Performing Resident
      in 2010.
@@ -97,6 +104,7 @@ lines.
 ---- --------------------------------------------------------------------------
 
 ## Education ##
+
 ---- --------------------------------------------------------------------------
 2013 B. Economics/B. IT (Software Development), Australian National University.
 
@@ -106,6 +114,7 @@ lines.
 ---- --------------------------------------------------------------------------
 
 ## Skills ##
+
 ---------------------- --------------------------------------------------------
 Computer Hardware      Assembly and basic maintenance of desktop and laptop
                        computers.
@@ -120,6 +129,7 @@ Miscellaneous          Basic HTML/CSS/JS, computer and network troubleshooting.
 ---------------------- --------------------------------------------------------
 
 ## Languages ##
+
 ------------ ------------------------------------------------------------------
 Native       English
 
