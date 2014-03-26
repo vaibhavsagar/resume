@@ -30,8 +30,9 @@ lines.
 ## Experience ##
 
 ---- --------------------------------------------------------------------------
-2014 *Volunteer Fellow* at CSIRO (February--). Developing a workflow
-     engine for RESTful web services using semantic web technologies.
+2014 *Volunteer Fellow* at CSIRO (February--). Improving my previous
+     implementation of a workflow engine for RESTful web services using
+     semantic web technologies.
 
      *Tutor* at CECS (ANU College of Engineering and Computer Science)
      (February--June) for COMP1100 Introduction to Programming and Algorithms.
@@ -41,28 +42,28 @@ lines.
      a workflow engine for RESTful web services using semantic web
      technologies.
 
-     *Student Ambassador* for CECS (March--November). Selected to represent the
-     College for various recruitment events and activities around Australia, to
-     share knowledge with prospective students based on my experience at ANU,
-     and talk to prospective students about living in Canberra. Also ran labs
-     in Processing for high schoolers as an introduction to programming.
+     *Student Ambassador* for CECS (March--November). Represented the
+     College for various recruitment events and activities, shared knowledge
+     with prospective students based on my experience at ANU, and spoke to
+     prospective students about living in Canberra. Ran labs in Processing for
+     high schoolers as an introduction to programming.
 
      *Senior IT Consultant* at John XXIII College (February--November).
-     Selected as part of IT team for maintenance of systems at College and IT
-     support for residents.
+     Led IT team to maintain systems at College and provide technical support
+     to residents.
 
 
 2012 *Tutor* at CECS (February--June) for COMP1100 Introduction to
      Programming and Algorithms.
 
      *IT Administrator* at John XXIII College (February--November). Head of IT
-     team for maintenance of systems at College and IT support for residents.
-     Kept college administration computer systems running smoothly and
-     oversaw transition to external service provider.
+     team. Performed maintenance of systems at College and provided technical
+     support to residents and administration. Oversaw transition to external
+     service provider.
 
 
-2011 *IT Consultant* at John XXIII College (February--November). Selected as
-     part of IT team for maintenance of systems at College and IT support for
+2011 *IT Consultant* at John XXIII College (February--November). Performed
+     maintenance of systems at College and provided technical support to
      residents.
 ---- --------------------------------------------------------------------------
 
@@ -120,8 +121,7 @@ Computer Hardware      Assembly and basic maintenance of desktop and laptop
 Programming Languages  Proficient in Python. Familiar with C, ChucK,
                        Haskell, and Java.
 
-Systems Administration Active Directory, Exchange etc. Limited experience on
-                       Linux.
+Systems Administration Active Directory, Exchange etc. Some Linux experience.
 
 Miscellaneous          Basic HTML/CSS/JS, computer and network troubleshooting.
 ---------------------- --------------------------------------------------------
