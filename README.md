@@ -34,6 +34,24 @@ Objective
 
 Realise the potential of information technology to improve lives and bottom lines.
 
+Education
+---------
+
+<table>
+<col width="6%" />
+<col width="93%" />
+<tbody>
+<tr class="odd">
+<td align="left">2013</td>
+<td align="left">B. Economics/B. IT (Software Development), Australian National University.</td>
+</tr>
+<tr class="even">
+<td align="left">2009</td>
+<td align="left">IB (International Baccalaureate) Diploma, Gandhi Memorial International School, Jakarta.</td>
+</tr>
+</tbody>
+</table>
+
 Experience
 ----------
 
@@ -146,24 +164,6 @@ Awards
 <tr class="odd">
 <td align="left">2010</td>
 <td align="left">ANU College of Engineering and Computer Science Dean's List</td>
-</tr>
-</tbody>
-</table>
-
-Education
----------
-
-<table>
-<col width="6%" />
-<col width="93%" />
-<tbody>
-<tr class="odd">
-<td align="left">2013</td>
-<td align="left">B. Economics/B. IT (Software Development), Australian National University.</td>
-</tr>
-<tr class="even">
-<td align="left">2009</td>
-<td align="left">IB (International Baccalaureate) Diploma, Gandhi Memorial International School, Jakarta.</td>
 </tr>
 </tbody>
 </table>

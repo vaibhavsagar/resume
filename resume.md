@@ -18,6 +18,15 @@ GitHub   <https://github.com/vaibhavsagar>
 Realise the potential of information technology to improve lives and bottom
 lines.
 
+## Education ##
+
+---- --------------------------------------------------------------------------
+2013 B. Economics/B. IT (Software Development), Australian National University.
+
+2009 IB (International Baccalaureate) Diploma, Gandhi Memorial International
+     School, Jakarta.
+---- --------------------------------------------------------------------------
+
 ## Experience ##
 
 ---- --------------------------------------------------------------------------
@@ -73,8 +82,6 @@ lines.
      entry, translation and brainstorming marketing ideas.
 ---- --------------------------------------------------------------------------
 
-\pagebreak
-
 ## Positions ##
 
 ---- --------------------------------------------------------------------------
@@ -103,15 +110,6 @@ lines.
 2010 ANU College of Engineering and Computer Science Dean's List
 ---- --------------------------------------------------------------------------
 
-## Education ##
-
----- --------------------------------------------------------------------------
-2013 B. Economics/B. IT (Software Development), Australian National University.
-
-
-2009 IB (International Baccalaureate) Diploma, Gandhi Memorial International
-     School, Jakarta.
----- --------------------------------------------------------------------------
 
 ## Skills ##
 
