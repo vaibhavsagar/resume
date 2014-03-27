@@ -22,9 +22,6 @@ lines.
 
 ---- --------------------------------------------------------------------------
 2013 B. Economics/B. IT (Software Development), Australian National University.
-
-2009 IB (International Baccalaureate) Diploma, Gandhi Memorial International
-     School, Jakarta.
 ---- --------------------------------------------------------------------------
 
 ## Experience ##
