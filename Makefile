@@ -1,7 +1,7 @@
 all: pdf html readme
 
-pdf: resume.md resume_template.tex
-	pandoc resume.md --template=resume_template.tex -o resume.pdf
+pdf: resume.md resume_header.tex
+	pandoc resume.md -H resume_header.tex -o resume.pdf
 
 html: resume.md resume_template.css
 	pandoc resume.md -s -H resume_template.css -o index.html
