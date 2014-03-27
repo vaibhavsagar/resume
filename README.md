@@ -37,8 +37,16 @@ Realise the potential of information technology to improve lives and bottom line
 Education
 ---------
 
-|---|---|
-|2013|B. Economics/B. IT (Software Development), Australian National University.|
+<table>
+<col width="6%" />
+<col width="93%" />
+<tbody>
+<tr class="odd">
+<td align="left">2013</td>
+<td align="left">B. Economics/B. IT (Software Development), Australian National University.</td>
+</tr>
+</tbody>
+</table>
 
 Experience
 ----------
