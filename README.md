@@ -112,8 +112,8 @@ Internships
 </tbody>
 </table>
 
-Positions
----------
+Extracurriculars
+----------------
 
 <table>
 <col width="6%" />
@@ -173,7 +173,7 @@ Skills
 <tbody>
 <tr class="odd">
 <td align="left">Computer Hardware</td>
-<td align="left">Assembly and basic maintenance of desktop and laptop computers.</td>
+<td align="left">Assembly and maintenance of desktop and laptop computers.</td>
 </tr>
 <tr class="even">
 <td align="left">Programming Languages</td>

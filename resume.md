@@ -81,7 +81,7 @@ lines.
      entry, translation and brainstorming marketing ideas.
 ---- --------------------------------------------------------------------------
 
-## Positions ##
+## Extracurriculars ##
 
 ---- --------------------------------------------------------------------------
 2013 CECS SRC Third Year Representative, ANU.
@@ -113,7 +113,7 @@ lines.
 ## Skills ##
 
 ---------------------- --------------------------------------------------------
-Computer Hardware      Assembly and basic maintenance of desktop and laptop
+Computer Hardware      Assembly and maintenance of desktop and laptop
                        computers.
 
 Programming Languages  Proficient in Python. Familiar with C, ChucK,
