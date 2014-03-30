@@ -31,14 +31,17 @@ lines.
 2014 *Volunteer Fellow* at CSIRO (February--). Improving my previous
      implementation of a workflow engine for RESTful web services using
      semantic web technologies.
+     <!-- technical, programming-->
 
      *Tutor* at CECS (ANU College of Engineering and Computer Science)
      (February--June) for COMP1100 Introduction to Programming and Algorithms.
+     <!-- technical, programming-->
 
 
 2013 *Vacation Scholar* at CSIRO (November 2013--February 2014). Developed
      a workflow engine for RESTful web services using semantic web
      technologies.
+     <!-- technical, programming, teaching-->
 
      *Student Ambassador* for CECS (March--November). Represented the
      College for various recruitment events and activities, shared knowledge
@@ -53,6 +56,7 @@ lines.
 
 2012 *Tutor* at CECS (February--June) for COMP1100 Introduction to
      Programming and Algorithms.
+     <!-- technical, programming, teaching-->
 
      *IT Administrator* at John XXIII College (February--November). Head of IT
      team. Performed maintenance of systems at College and provided technical
