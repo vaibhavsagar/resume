@@ -31,42 +31,47 @@ lines.
 2014 *Volunteer Fellow* at CSIRO (February--). Improving my previous
      implementation of a workflow engine for RESTful web services using
      semantic web technologies.
-     <!-- technical, programming-->
+     <!-- technical, programming -->
 
      *Tutor* at CECS (ANU College of Engineering and Computer Science)
      (February--June) for COMP1100 Introduction to Programming and Algorithms.
-     <!-- technical, programming-->
+     <!-- technical, programming -->
 
 
 2013 *Vacation Scholar* at CSIRO (November 2013--February 2014). Developed
      a workflow engine for RESTful web services using semantic web
      technologies.
-     <!-- technical, programming, teaching-->
+     <!-- technical, programming, teaching -->
 
      *Student Ambassador* for CECS (March--November). Represented the
      College for various recruitment events and activities, shared knowledge
      with prospective students based on my experience at ANU, and spoke to
      prospective students about living in Canberra. Ran labs in Processing for
      high schoolers as an introduction to programming.
+     <!-- technical, programming, teaching -->
 
      *Senior IT Consultant* at John XXIII College (February--November).
      Led IT team to maintain systems at College and provide technical support
      to residents.
+     <!-- technical, support, consulting -->
 
 
 2012 *Tutor* at CECS (February--June) for COMP1100 Introduction to
      Programming and Algorithms.
-     <!-- technical, programming, teaching-->
+     <!-- technical, programming, teaching -->
 
      *IT Administrator* at John XXIII College (February--November). Head of IT
      team. Performed maintenance of systems at College and provided technical
      support to residents and administration. Oversaw transition to external
      service provider.
+     <!-- technical, support, consulting -->
+
 
 
 2011 *IT Consultant* at John XXIII College (February--November). Performed
      maintenance of systems at College and provided technical support to
      residents.
+     <!-- technical, support, consulting -->
 ---- --------------------------------------------------------------------------
 
 ## Internships ##
@@ -79,10 +84,12 @@ lines.
 2011 Deloitte & Touche Consulting India Private Limited
      (December 2011--January 2012). Supported IT audit team by working with
      documentation.
+     <!-- support, consulting -->
 
 
 2009 Kimberly-Clark (September). Completed a range of tasks including data
      entry, translation and brainstorming marketing ideas.
+     <!-- support, consulting -->
 ---- --------------------------------------------------------------------------
 
 ## Extracurriculars ##
