@@ -57,35 +57,35 @@ Experience
 <tbody>
 <tr class="odd">
 <td align="left">2014</td>
-<td align="left"><em>Volunteer Fellow</em> at CSIRO (February--). Improving my previous implementation of a workflow engine for RESTful web services using semantic web technologies. <!-- technical, programming --></td>
+<td align="left"><em>Volunteer Fellow</em> at CSIRO (February--). Improving my previous implementation of a workflow engine for RESTful web services using semantic web technologies.</td>
 </tr>
 <tr class="even">
 <td align="left"></td>
-<td align="left"><em>Tutor</em> at CECS (ANU College of Engineering and Computer Science) (February--June) for COMP1100 Introduction to Programming and Algorithms. <!-- technical, programming --></td>
+<td align="left"><em>Tutor</em> at CECS (ANU College of Engineering and Computer Science) (February--) for COMP1100 Introduction to Programming and Algorithms. Ran tutorials using Haskell to teach computer science concepts.</td>
 </tr>
 <tr class="odd">
 <td align="left">2013</td>
-<td align="left"><em>Vacation Scholar</em> at CSIRO (November 2013--February 2014). Developed a workflow engine for RESTful web services using semantic web technologies. <!-- technical, programming, teaching --></td>
+<td align="left"><em>Vacation Scholar</em> at CSIRO (November 2013--February 2014). Developed a workflow engine for RESTful web services using semantic web technologies.</td>
 </tr>
 <tr class="even">
 <td align="left"></td>
-<td align="left"><em>Student Ambassador</em> for CECS (March--November). Represented the College for various recruitment events and activities, shared knowledge with prospective students based on my experience at ANU, and spoke to prospective students about living in Canberra. Ran labs in Processing for high schoolers as an introduction to programming. <!-- technical, programming, teaching --></td>
+<td align="left"><em>Student Ambassador</em> for CECS (March--November). Represented the College for various recruitment events and activities, shared knowledge with prospective students based on my experience at ANU, and spoke to prospective students about living in Canberra. Ran labs in Processing for high schoolers as an introduction to programming.</td>
 </tr>
 <tr class="odd">
 <td align="left"></td>
-<td align="left"><em>Senior IT Consultant</em> at John XXIII College (February--November). Led IT team to maintain systems at College and provide technical support to residents. <!-- technical, support, consulting --></td>
+<td align="left"><em>Senior IT Consultant</em> at John XXIII College (February--November). Led IT team to maintain systems at College and provide technical support to residents.</td>
 </tr>
 <tr class="even">
 <td align="left">2012</td>
-<td align="left"><em>Tutor</em> at CECS (February--June) for COMP1100 Introduction to Programming and Algorithms. <!-- technical, programming, teaching --></td>
+<td align="left"><em>Tutor</em> at CECS (February--June) for COMP1100 Introduction to Programming and Algorithms. Ran tutorials using Haskell to teach computer science concepts.</td>
 </tr>
 <tr class="odd">
 <td align="left"></td>
-<td align="left"><em>IT Administrator</em> at John XXIII College (February--November). Head of IT team. Performed maintenance of systems at College and provided technical support to residents and administration. Oversaw transition to external service provider. <!-- technical, support, consulting --></td>
+<td align="left"><em>IT Administrator</em> at John XXIII College (February--November). Head of IT team. Performed maintenance of systems at College and provided technical support to residents and administration. Oversaw transition to external service provider.</td>
 </tr>
 <tr class="even">
 <td align="left">2011</td>
-<td align="left"><em>IT Consultant</em> at John XXIII College (February--November). Performed maintenance of systems at College and provided technical support to residents. <!-- technical, support, consulting --></td>
+<td align="left"><em>IT Consultant</em> at John XXIII College (February--November). Performed maintenance of systems at College and provided technical support to residents.</td>
 </tr>
 </tbody>
 </table>
@@ -103,11 +103,11 @@ Internships
 </tr>
 <tr class="even">
 <td align="left">2011</td>
-<td align="left">Deloitte &amp; Touche Consulting India Private Limited (December 2011--January 2012). Supported IT audit team by working with documentation. <!-- support, consulting --></td>
+<td align="left">Deloitte &amp; Touche Consulting India Private Limited (December 2011--January 2012). Supported IT audit team by working with documentation.</td>
 </tr>
 <tr class="odd">
 <td align="left">2009</td>
-<td align="left">Kimberly-Clark (September). Completed a range of tasks including data entry, translation and brainstorming marketing ideas. <!-- support, consulting --></td>
+<td align="left">Kimberly-Clark (September). Completed a range of tasks including data entry, translation and brainstorming marketing ideas.</td>
 </tr>
 </tbody>
 </table>
