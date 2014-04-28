@@ -28,18 +28,16 @@ lines.
 ## Experience ##
 
 ---- --------------------------------------------------------------------------
-2014 *Volunteer Fellow* at CSIRO (February--). Improving my previous
-     implementation of a workflow engine for RESTful web services using
-     semantic web technologies.
+2014 *Volunteer Fellow* at CSIRO (February--). Continuing previous work with
+     Semantic Web technologies and RESTful web services.
 
      *Tutor* at CECS (ANU College of Engineering and Computer Science)
      (February--) for COMP1100 Introduction to Programming and Algorithms.
-     Ran tutorials using Haskell to teach computer science concepts.
+     Running tutorials using Haskell to teach computer science concepts.
 
 
-2013 *Vacation Scholar* at CSIRO (November 2013--February 2014). Developed
-     a workflow engine for RESTful web services using semantic web
-     technologies.
+2013 *Vacation Scholar* at CSIRO (November 2013--February 2014). Worked with
+     Semantic Web technologies and RESTful web services.
 
      *Student Ambassador* for CECS (March--November). Represented the
      College for various recruitment events and activities, shared knowledge
