@@ -60,7 +60,6 @@ lines.
      service provider.
 
 
-
 2011 *IT Consultant* at John XXIII College (February--November). Performed
      maintenance of systems at College and provided technical support to
      residents.
