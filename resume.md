@@ -1,5 +1,5 @@
 % Vaibhav Sagar
-
+<!-- vim:set ft=pandoc: -->
 
 ## Contact ##
 
@@ -121,7 +121,7 @@ Programming Languages  Proficient in Python. Familiar with C, ChucK,
 
 Systems Administration Active Directory, Exchange etc. Some Linux experience.
 
-Miscellaneous          Basic HTML/CSS/JS, computer and network troubleshooting.
+Miscellaneous          HTML/CSS/JS, computer and network troubleshooting.
 ---------------------- --------------------------------------------------------
 
 ## Languages ##

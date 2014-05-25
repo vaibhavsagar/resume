@@ -1,9 +1,13 @@
+<!-- vim:set ft=pandoc: -->
+
 Contact
 -------
 
 <table>
+<colgroup>
 <col width="11%" />
 <col width="88%" />
+</colgroup>
 <tbody>
 <tr class="odd">
 <td align="left">Phone</td>
@@ -38,8 +42,10 @@ Education
 ---------
 
 <table>
+<colgroup>
 <col width="6%" />
 <col width="93%" />
+</colgroup>
 <tbody>
 <tr class="odd">
 <td align="left">2013</td>
@@ -52,8 +58,10 @@ Experience
 ----------
 
 <table>
+<colgroup>
 <col width="6%" />
 <col width="93%" />
+</colgroup>
 <tbody>
 <tr class="odd">
 <td align="left">2014</td>
@@ -94,8 +102,10 @@ Internships
 -----------
 
 <table>
+<colgroup>
 <col width="6%" />
 <col width="93%" />
+</colgroup>
 <tbody>
 <tr class="odd">
 <td align="left">2012</td>
@@ -116,8 +126,10 @@ Extracurriculars
 ----------------
 
 <table>
+<colgroup>
 <col width="6%" />
 <col width="93%" />
+</colgroup>
 <tbody>
 <tr class="odd">
 <td align="left">2013</td>
@@ -146,8 +158,10 @@ Awards
 ------
 
 <table>
+<colgroup>
 <col width="6%" />
 <col width="93%" />
+</colgroup>
 <tbody>
 <tr class="odd">
 <td align="left">2011</td>
@@ -168,8 +182,10 @@ Skills
 ------
 
 <table>
+<colgroup>
 <col width="29%" />
 <col width="70%" />
+</colgroup>
 <tbody>
 <tr class="odd">
 <td align="left">Computer Hardware</td>
@@ -185,7 +201,7 @@ Skills
 </tr>
 <tr class="even">
 <td align="left">Miscellaneous</td>
-<td align="left">Basic HTML/CSS/JS, computer and network troubleshooting.</td>
+<td align="left">HTML/CSS/JS, computer and network troubleshooting.</td>
 </tr>
 </tbody>
 </table>
@@ -194,8 +210,10 @@ Languages
 ---------
 
 <table>
+<colgroup>
 <col width="16%" />
 <col width="83%" />
+</colgroup>
 <tbody>
 <tr class="odd">
 <td align="left">Native</td>
