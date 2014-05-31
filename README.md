@@ -1,5 +1,3 @@
-<!-- vim:set ft=pandoc: -->
-
 Contact
 -------
 
@@ -65,11 +63,11 @@ Experience
 <tbody>
 <tr class="odd">
 <td align="left">2014</td>
-<td align="left"><em>Volunteer Fellow</em> at CSIRO (February--). Continuing previous work with Semantic Web technologies and RESTful web services.</td>
+<td align="left"><em>Volunteer Fellow</em> at CSIRO (February--June). Continued previous work with Semantic Web technologies and RESTful web services.</td>
 </tr>
 <tr class="even">
 <td align="left"></td>
-<td align="left"><em>Tutor</em> at CECS (ANU College of Engineering and Computer Science) (February--) for COMP1100 Introduction to Programming and Algorithms. Running tutorials using Haskell to teach computer science concepts.</td>
+<td align="left"><em>Tutor</em> at CECS (ANU College of Engineering and Computer Science) (February--June) for COMP1100 Introduction to Programming and Algorithms. Running tutorials using Haskell to teach computer science concepts.</td>
 </tr>
 <tr class="odd">
 <td align="left">2013</td>

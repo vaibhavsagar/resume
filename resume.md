@@ -1,5 +1,4 @@
 % Vaibhav Sagar
-<!-- vim:set ft=pandoc: -->
 
 ## Contact ##
 
@@ -28,11 +27,11 @@ lines.
 ## Experience ##
 
 ---- --------------------------------------------------------------------------
-2014 *Volunteer Fellow* at CSIRO (February--). Continuing previous work with
+2014 *Volunteer Fellow* at CSIRO (February--June). Continued previous work with
      Semantic Web technologies and RESTful web services.
 
      *Tutor* at CECS (ANU College of Engineering and Computer Science)
-     (February--) for COMP1100 Introduction to Programming and Algorithms.
+     (February--June) for COMP1100 Introduction to Programming and Algorithms.
      Running tutorials using Haskell to teach computer science concepts.
 
 
