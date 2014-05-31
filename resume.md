@@ -32,7 +32,7 @@ lines.
 
      *Tutor* at CECS (ANU College of Engineering and Computer Science)
      (February--June) for COMP1100 Introduction to Programming and Algorithms.
-     Running tutorials using Haskell to teach computer science concepts.
+     Ran tutorials using Haskell to teach computer science concepts.
 
 
 2013 *Vacation Scholar* at CSIRO (November 2013--February 2014). Worked with
