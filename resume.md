@@ -50,8 +50,7 @@ lines.
 
 
 2012 *Tutor* at CECS (February--June) for COMP1100 Introduction to
-     Programming and Algorithms. Ran tutorials using Haskell to teach
-     computer science concepts.
+     Programming and Algorithms.
 
      *IT Administrator* at John XXIII College (February--November). Head of IT
      team. Performed maintenance of systems at College and provided technical

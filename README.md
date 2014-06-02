@@ -67,7 +67,7 @@ Experience
 </tr>
 <tr class="even">
 <td align="left"></td>
-<td align="left"><em>Tutor</em> at CECS (ANU College of Engineering and Computer Science) (February--June) for COMP1100 Introduction to Programming and Algorithms. Running tutorials using Haskell to teach computer science concepts.</td>
+<td align="left"><em>Tutor</em> at CECS (ANU College of Engineering and Computer Science) (February--June) for COMP1100 Introduction to Programming and Algorithms. Ran tutorials using Haskell to teach computer science concepts.</td>
 </tr>
 <tr class="odd">
 <td align="left">2013</td>
@@ -83,7 +83,7 @@ Experience
 </tr>
 <tr class="even">
 <td align="left">2012</td>
-<td align="left"><em>Tutor</em> at CECS (February--June) for COMP1100 Introduction to Programming and Algorithms. Ran tutorials using Haskell to teach computer science concepts.</td>
+<td align="left"><em>Tutor</em> at CECS (February--June) for COMP1100 Introduction to Programming and Algorithms.</td>
 </tr>
 <tr class="odd">
 <td align="left"></td>
