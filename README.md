@@ -106,16 +106,16 @@ Internships
 </colgroup>
 <tbody>
 <tr class="odd">
+<td align="left">2014</td>
+<td align="left">Agile Digital (May). Worked on web applications using technologies including AngularJS, Bootstrap, and Scala.</td>
+</tr>
+<tr class="even">
 <td align="left">2012</td>
 <td align="left">Gupshup Indonesia (December 2012--January 2013). Used and promoted a new social media service.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2011</td>
 <td align="left">Deloitte &amp; Touche Consulting India Private Limited (December 2011--January 2012). Supported IT audit team by working with documentation.</td>
-</tr>
-<tr class="odd">
-<td align="left">2009</td>
-<td align="left">Kimberly-Clark (September). Completed a range of tasks including data entry, translation and brainstorming marketing ideas.</td>
 </tr>
 </tbody>
 </table>
@@ -191,7 +191,7 @@ Skills
 </tr>
 <tr class="even">
 <td align="left">Programming Languages</td>
-<td align="left">Proficient in Python. Familiar with C, ChucK, Haskell, and Java.</td>
+<td align="left">Proficient in Python. Familiar with C, ChucK, Haskell, Java, and Javascript.</td>
 </tr>
 <tr class="odd">
 <td align="left">Systems Administration</td>

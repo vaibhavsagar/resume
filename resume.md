@@ -66,6 +66,9 @@ lines.
 ## Internships ##
 
 ---- --------------------------------------------------------------------------
+2014 Agile Digital (May). Worked on web applications using technologies
+     including AngularJS, Bootstrap, and Scala.
+
 2012 Gupshup Indonesia (December 2012--January 2013). Used and promoted a new
      social media service.
 
@@ -73,10 +76,6 @@ lines.
 2011 Deloitte & Touche Consulting India Private Limited
      (December 2011--January 2012). Supported IT audit team by working with
      documentation.
-
-
-2009 Kimberly-Clark (September). Completed a range of tasks including data
-     entry, translation and brainstorming marketing ideas.
 ---- --------------------------------------------------------------------------
 
 ## Extracurriculars ##
@@ -115,7 +114,7 @@ Computer Hardware      Assembly and maintenance of desktop and laptop
                        computers.
 
 Programming Languages  Proficient in Python. Familiar with C, ChucK,
-                       Haskell, and Java.
+                       Haskell, Java, and Javascript.
 
 Systems Administration Active Directory, Exchange etc. Some Linux experience.
 
