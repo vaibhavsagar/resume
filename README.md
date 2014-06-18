@@ -199,7 +199,7 @@ Skills
 </tr>
 <tr class="even">
 <td align="left">Miscellaneous</td>
-<td align="left">HTML/CSS/JS, computer and network troubleshooting.</td>
+<td align="left">HTML/CSS, computer and network troubleshooting.</td>
 </tr>
 </tbody>
 </table>

@@ -118,7 +118,7 @@ Programming Languages  Proficient in Python. Familiar with C, ChucK,
 
 Systems Administration Active Directory, Exchange etc. Some Linux experience.
 
-Miscellaneous          HTML/CSS/JS, computer and network troubleshooting.
+Miscellaneous          HTML/CSS, computer and network troubleshooting.
 ---------------------- --------------------------------------------------------
 
 ## Languages ##
@@ -130,3 +130,4 @@ Advanced     Hindi
 
 Intermediate Bahasa Indonesia
 ------------ ------------------------------------------------------------------
+
