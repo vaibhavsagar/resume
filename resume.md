@@ -67,12 +67,8 @@ lines.
 ## Internships ##
 
 ---- --------------------------------------------------------------------------
-2014 Agile Digital (May). Worked on web applications using technologies
-     including AngularJS, Bootstrap, and Scala.
-
-
-2012 Gupshup Indonesia (December 2012--January 2013). Used and promoted a new
-     social media service.
+2014 Agile Digital (May--). Worked on applications using technologies including
+     AngularJS, Bootstrap, Scala, and Objective-C.
 
 
 2011 Deloitte & Touche Consulting India Private Limited
