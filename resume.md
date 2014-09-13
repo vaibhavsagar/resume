@@ -6,6 +6,8 @@
 -------- ----------------------------------------------------------------------
 Phone    +61425059241
 
+Address  8 Bauhinia Street, O'Connor ACT 2602
+
 Email    <vaibhavsagar@gmail.com>
 
 LinkedIn <http://au.linkedin.com/in/vaibhavsagar/>
@@ -67,8 +69,8 @@ lines.
 ## Internships ##
 
 ---- --------------------------------------------------------------------------
-2014 Agile Digital (May--). Worked on applications using technologies including
-     AngularJS, Bootstrap, Scala, and Objective-C.
+2014 Agile Digital (May--). Working on applications using technologies
+     including AngularJS, Bootstrap, Scala, and Objective-C.
 
 
 2011 Deloitte & Touche Consulting India Private Limited
@@ -104,7 +106,6 @@ lines.
 2010 ANU College of Engineering and Computer Science Dean's List
 ---- --------------------------------------------------------------------------
 
-
 ## Skills ##
 
 ---------------------- --------------------------------------------------------
@@ -113,8 +114,6 @@ Computer Hardware      Assembly and maintenance of desktop and laptop
 
 Programming Languages  Proficient in Python. Familiar with C, ChucK,
                        Haskell, Java, and Javascript.
-
-Systems Administration Active Directory, Exchange etc. Some Linux experience.
 
 Miscellaneous          HTML/CSS, computer and network troubleshooting.
 ---------------------- --------------------------------------------------------
