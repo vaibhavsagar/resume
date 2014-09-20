@@ -70,7 +70,7 @@ lines.
 
 ---- --------------------------------------------------------------------------
 2014 Agile Digital (May--). Working on applications using technologies
-     including AngularJS, Bootstrap, Scala, and Objective-C.
+     including AngularJS, Bootstrap, Objective-C, and Scala.
 
 
 2011 Deloitte & Touche Consulting India Private Limited
