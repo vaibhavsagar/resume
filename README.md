@@ -111,7 +111,7 @@ Internships
 <tbody>
 <tr class="odd">
 <td align="left">2014</td>
-<td align="left">Agile Digital (May--September). Worked on applications using technologies including AngularJS, Bootstrap, Objective-C, and Scala.</td>
+<td align="left">Agile Digital (May--September). Developed applications using Agile processes with technologies including Javascript (AngularJS+jQuery), Objective-C, and Scala (Play2).</td>
 </tr>
 <tr class="even">
 <td align="left">2011</td>

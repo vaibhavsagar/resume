@@ -69,8 +69,9 @@ lines.
 ## Internships ##
 
 ---- --------------------------------------------------------------------------
-2014 Agile Digital (May--September). Worked on applications using technologies
-     including AngularJS, Bootstrap, Objective-C, and Scala.
+2014 Agile Digital (May--September). Developed applications using Agile
+     processes with technologies including Javascript (AngularJS+jQuery),
+     Objective-C, and Scala (Play2).
 
 
 2011 Deloitte & Touche Consulting India Private Limited
