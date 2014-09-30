@@ -31,7 +31,7 @@ lines.
 
 ---- --------------------------------------------------------------------------
 2014 *Volunteer Fellow* at CSIRO (February--June). Continued previous work with
-     Semantic Web technologies and RESTful web services.
+     Semantic Web technologies and RESTful web services (see below).
 
      *Tutor* at CECS (ANU College of Engineering and Computer Science)
      (February--June) for COMP1100 Introduction to Programming and Algorithms.
@@ -69,7 +69,7 @@ lines.
 ## Internships ##
 
 ---- --------------------------------------------------------------------------
-2014 Agile Digital (May--). Working on applications using technologies
+2014 Agile Digital (May--September). Worked on applications using technologies
      including AngularJS, Bootstrap, Objective-C, and Scala.
 
 
@@ -109,13 +109,11 @@ lines.
 ## Skills ##
 
 ---------------------- --------------------------------------------------------
-Computer Hardware      Assembly and maintenance of desktop and laptop
-                       computers.
+Software Development   Experience with Haskell, HTML/CSS, Java, Javascript,
+                       Objective-C, and Python. Comfortable with Git and Agile
+                       processes.
 
-Programming Languages  Proficient in Python. Familiar with C, ChucK,
-                       Haskell, Java, and Javascript.
-
-Miscellaneous          HTML/CSS, computer and network troubleshooting.
+Systems Administration Computer and network troubleshooting.
 ---------------------- --------------------------------------------------------
 
 ## Languages ##
