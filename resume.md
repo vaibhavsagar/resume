@@ -30,7 +30,11 @@ lines.
 ## Experience ##
 
 ---- --------------------------------------------------------------------------
-2014 *Volunteer Fellow* at CSIRO (February--June). Continued previous work with
+2014 *Junior Software Developer* at Agile Digital (April--September).
+     Developed applications using Agile processes with technologies including
+     Javascript (AngularJS+jQuery), Objective-C, and Scala (Play2).
+
+     *Volunteer Fellow* at CSIRO (February--June). Continued previous work with
      Semantic Web technologies and RESTful web services (see below).
 
      *Tutor* at CECS (ANU College of Engineering and Computer Science)
@@ -56,28 +60,21 @@ lines.
      Programming and Algorithms.
 
      *IT Administrator* at John XXIII College (February--November). Head of IT
-     team. Performed maintenance of systems at College and provided technical
-     support to residents and administration. Oversaw transition to external
-     service provider.
+     team that performed maintenance of systems at College and provided
+     technical support to residents and administration. Oversaw transition to
+     external service provider.
 
 
-2011 *IT Consultant* at John XXIII College (February--November). Performed
+2011 *Intern* at Deloitte & Touche Consulting India Private Limited
+     (December 2011--January 2012). Supported IT audit team by working with
+     documentation.
+
+     *IT Consultant* at John XXIII College (February--November). Performed
      maintenance of systems at College and provided technical support to
      residents.
 ---- --------------------------------------------------------------------------
 
-## Internships ##
-
----- --------------------------------------------------------------------------
-2014 Agile Digital (May--September). Developed applications using Agile
-     processes with technologies including Javascript (AngularJS+jQuery),
-     Objective-C, and Scala (Play2).
-
-
-2011 Deloitte & Touche Consulting India Private Limited
-     (December 2011--January 2012). Supported IT audit team by working with
-     documentation.
----- --------------------------------------------------------------------------
+\pagebreak
 
 ## Extracurriculars ##
 
