@@ -107,20 +107,15 @@ lines.
 ## Skills ##
 
 ---------------------- --------------------------------------------------------
-Software Development   Experience with Haskell, HTML/CSS, Java, Javascript,
-                       Objective-C, and Python. Comfortable with Git and Agile
-                       processes.
+Programming Languages  Haskell, HTML/CSS(Bootstrap), Java,
+                       Javascript(AngularJS), Objective-C, and Python.
+
+Tools and Platforms    Linux, Mac OS X and Windows. Git, Eclipse, Vim,
+                       WebStorm, and Xcode. Bamboo, Confluence, Gerrit, JIRA,
+                       Jenkins, and Stash.
 
 Systems Administration Computer and network troubleshooting.
+
+Languages              Advanced Hindi and intermediate Bahasa Indonesia.
 ---------------------- --------------------------------------------------------
-
-## Languages ##
-
------------- ------------------------------------------------------------------
-Native       English
-
-Advanced     Hindi
-
-Intermediate Bahasa Indonesia
------------- ------------------------------------------------------------------
 
