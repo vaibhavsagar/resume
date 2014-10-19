@@ -175,7 +175,7 @@ Skills
 <tbody>
 <tr class="odd">
 <td align="left">Programming Languages</td>
-<td align="left">Haskell, HTML/CSS(Bootstrap), Java, Javascript(AngularJS), Objective-C, and Python.</td>
+<td align="left">Haskell, HTML/CSS (Bootstrap), Java, Javascript (AngularJS), Objective-C, and Python.</td>
 </tr>
 <tr class="even">
 <td align="left">Tools and Platforms</td>
@@ -187,7 +187,7 @@ Skills
 </tr>
 <tr class="even">
 <td align="left">Languages</td>
-<td align="left">Advanced Hindi and intermediate Bahasa Indonesia.</td>
+<td align="left">Hindi (advanced) and Bahasa Indonesia (intermediate).</td>
 </tr>
 </tbody>
 </table>

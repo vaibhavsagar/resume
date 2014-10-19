@@ -107,8 +107,8 @@ lines.
 ## Skills ##
 
 ---------------------- --------------------------------------------------------
-Programming Languages  Haskell, HTML/CSS(Bootstrap), Java,
-                       Javascript(AngularJS), Objective-C, and Python.
+Programming Languages  Haskell, HTML/CSS (Bootstrap), Java,
+                       Javascript (AngularJS), Objective-C, and Python.
 
 Tools and Platforms    Linux, Mac OS X and Windows. Git, Eclipse, Vim,
                        WebStorm, and Xcode. Bamboo, Confluence, Gerrit, JIRA,
@@ -116,6 +116,6 @@ Tools and Platforms    Linux, Mac OS X and Windows. Git, Eclipse, Vim,
 
 Systems Administration Computer and network troubleshooting.
 
-Languages              Advanced Hindi and intermediate Bahasa Indonesia.
+Languages              Hindi (advanced) and Bahasa Indonesia (intermediate).
 ---------------------- --------------------------------------------------------
 
