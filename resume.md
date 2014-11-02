@@ -29,50 +29,41 @@ lines.
 
 ## Experience ##
 
----- --------------------------------------------------------------------------
-2014 *Junior Software Developer* at Agile Digital (April--September).
-     Developed applications using Agile processes with technologies including
-     Javascript (AngularJS+jQuery), Objective-C, and Scala (Play2).
+### Agile Digital ###
 
-     *Volunteer Fellow* at CSIRO (February--June). Continued previous work with
-     Semantic Web technologies and RESTful web services (see below).
+As a *Junior Software Developer* (April--September 2014), I developed
+applications using Agile processes with technologies including Javascript
+(AngularJS+jQuery), Objective-C, and Scala (Play2).
 
-     *Tutor* at CECS (ANU College of Engineering and Computer Science)
-     (February--June) for COMP1100 Introduction to Programming and Algorithms.
-     Ran tutorials using Haskell to teach computer science concepts.
+### CSIRO ###
 
+As a *Vacation Scholar* (November 2013--February 2014) and a *Volunteer Fellow*
+(February--June 2014), I worked with Semantic Web technologies and RESTful web
+services.
 
-2013 *Vacation Scholar* at CSIRO (November 2013--February 2014). Worked with
-     Semantic Web technologies and RESTful web services.
+### College of Engineering and Computer Science ###
 
-     *Student Ambassador* for CECS (March--November). Represented the
-     College for various recruitment events and activities, shared knowledge
-     with prospective students based on my experience at ANU, and spoke to
-     prospective students about living in Canberra. Ran labs in Processing for
-     high schoolers as an introduction to programming.
+As a *Tutor* (February--June 2012 and 2014) for COMP1100 Introduction to
+Programming and Algorithms, I ran tutorials using Haskell to teach computer
+science concepts.
 
-     *Senior IT Consultant* at John XXIII College (February--November).
-     Led IT team to maintain systems at College and provide technical support
-     to residents.
+As a *Student Ambassador* (March--November 2013), I represented the College for
+various recruitment events and activities, shared knowledge with prospective
+students based on my experience at ANU, and spoke to prospective students about
+living in Canberra. I also ran labs in Processing for high schoolers as an
+introduction to programming.
 
+### John XXIII College ###
 
-2012 *Tutor* at CECS (February--June) for COMP1100 Introduction to
-     Programming and Algorithms.
+As an *IT Consultant* (2011), an *IT Administrator* (2012), and a *Senior IT
+Consultant* (2013), I performed maintenance of systems at College and provided
+technical support to residents, led the IT team, and oversaw the transition to
+an external IT service provider.
 
-     *IT Administrator* at John XXIII College (February--November). Head of IT
-     team that performed maintenance of systems at College and provided
-     technical support to residents and administration. Oversaw transition to
-     external service provider.
+### Deloitte & Touche Consulting India Private Limited ###
 
-
-2011 *Intern* at Deloitte & Touche Consulting India Private Limited
-     (December 2011--January 2012). Supported IT audit team by working with
-     documentation.
-
-     *IT Consultant* at John XXIII College (February--November). Performed
-     maintenance of systems at College and provided technical support to
-     residents.
----- --------------------------------------------------------------------------
+As an *Intern* (December 2011--January 2012), I supported an IT audit team by
+working with documentation.
 
 \pagebreak
 
