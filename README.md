@@ -43,18 +43,7 @@ Realise the potential of information technology to improve lives and bottom line
 Education
 ---------
 
-<table>
-<colgroup>
-<col width="6%" />
-<col width="93%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td align="left">2013</td>
-<td align="left">B. Economics/B. IT (Software Development), Australian National University.</td>
-</tr>
-</tbody>
-</table>
+B. Economics/B. IT (Software Development), Australian National University, Class of 2013.
 
 Experience
 ----------
@@ -140,29 +129,17 @@ Awards
 Skills
 ------
 
-<table>
-<colgroup>
-<col width="29%" />
-<col width="70%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td align="left">Programming Languages</td>
-<td align="left">Haskell, HTML/CSS (Bootstrap), Java, Javascript (AngularJS), Objective-C, and Python.</td>
-</tr>
-<tr class="even">
-<td align="left">Tools and Platforms</td>
-<td align="left">Linux, Mac OS X and Windows. Git, Eclipse, Vim, WebStorm, and Xcode. Bamboo, Confluence, Gerrit, JIRA, Jenkins, and Stash.</td>
-</tr>
-<tr class="odd">
-<td align="left">Systems Administration</td>
-<td align="left">Computer and network troubleshooting.</td>
-</tr>
-<tr class="even">
-<td align="left">Languages</td>
-<td align="left">Hindi (advanced) and Bahasa Indonesia (intermediate).</td>
-</tr>
-</tbody>
-</table>
+### Software Development
 
+I have worked on a single-page web application using HTML/CSS(Bootstrap)/JS(AngularJS), a native iOS application using Objective-C, and web software in Python and Java using Flask, Requests, RDFLib, and ZeroMQ. I have helped first-year undergraduates learn Haskell and have some familiarity with functional programming concepts.
+
+I am comfortable with the Eclipse, WebStorm, and Xcode IDEs and the Vim text editor. For version control, I am most familiar with Git. For project management, testing and code review, I have used the Atlassian suite of products (Bamboo, Confluence, JIRA, and Stash) as well as Jenkins and Gerrit.
+
+### Systems Administration
+
+I have resolved technical issues related to desktop and laptop computers, printers, and networks. I also have some experience with Active Directory and Exchange administration.
+
+### Languages
+
+I speak Bahasa Indonesia at an intermediate level and Hindi at an advanced level.
 
