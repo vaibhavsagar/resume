@@ -26,7 +26,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
 </tr>
 <tr class="even">
 <td align="left">LinkedIn</td>
-<td align="left"><a href="http://au.linkedin.com/in/vaibhavsagar/">http://au.linkedin.com/in/vaibhavsagar/</a></td>
+<td align="left"><a href="http://au.linkedin.com/in/vaibhavsagar">http://au.linkedin.com/in/vaibhavsagar</a></td>
 </tr>
 <tr class="odd">
 <td align="left">GitHub</td>
@@ -54,17 +54,17 @@ As a *Junior Software Developer* (April--September 2014), I developed applicatio
 
 ### CSIRO
 
-As a *Vacation Scholar* (November 2013--February 2014) and a *Volunteer Fellow* (February--June 2014), I worked with Semantic Web technologies and RESTful web services.
+As a *Vacation Scholar* (November 2013--February 2014) and *Volunteer Fellow* (February--June 2014), I worked with Semantic Web technologies and RESTful web services.
 
-### College of Engineering and Computer Science
+### ANU College of Engineering and Computer Science
 
 As a *Tutor* (February--June 2012 and 2014) for COMP1100 Introduction to Programming and Algorithms, I ran tutorials using Haskell to teach computer science concepts.
 
-As a *Student Ambassador* (March--November 2013), I represented the College for various recruitment events and activities, shared knowledge with prospective students based on my experience at ANU, and spoke to prospective students about living in Canberra. I also ran labs in Processing for high schoolers as an introduction to programming.
+As a *Student Ambassador* (March--November 2013), I represented the College for various recruitment events and activities and spoke to prospective students about living in Canberra and studying at the ANU. I also ran labs in Processing for high schoolers as an introduction to programming.
 
 ### John XXIII College
 
-As an *IT Consultant* (2011), an *IT Administrator* (2012), and a *Senior IT Consultant* (2013), I performed maintenance of systems at College and provided technical support to residents, led the IT team, and oversaw the transition to an external IT service provider.
+As an *IT Consultant* (2011), *IT Administrator* (2012), and *Senior IT Consultant* (2013), I performed maintenance of computers, networks, and printers at College and provided technical support to residents. I led the IT team and oversaw the transition to an external IT service provider when this became necessary.
 
 ### Deloitte & Touche Consulting India Private Limited
 
@@ -73,58 +73,22 @@ As an *Intern* (December 2011--January 2012), I supported an IT audit team by wo
 Extracurriculars
 ----------------
 
-<table>
-<colgroup>
-<col width="6%" />
-<col width="93%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td align="left">2013</td>
-<td align="left">CECS SRC Third Year Representative, ANU.</td>
-</tr>
-<tr class="even">
-<td align="left"></td>
-<td align="left">CECS Academic Mentor, John XXIII College.</td>
-</tr>
-<tr class="odd">
-<td align="left">2012</td>
-<td align="left">ANUSA CECS Faculty Representative.</td>
-</tr>
-<tr class="even">
-<td align="left"></td>
-<td align="left">CECS Academic Mentor, John XXIII College.</td>
-</tr>
-<tr class="odd">
-<td align="left">2011</td>
-<td align="left">CECS Faculty Head, John XXIII College.</td>
-</tr>
-</tbody>
-</table>
+ANU CECS SRC Third Year Representative, 2013.
+
+CECS Academic Mentor, John XXIII College, 2012-2013.
+
+ANUSA CECS Faculty Representative, 2012.
+
+CECS Faculty Head, John XXIII College, 2011.
 
 Awards
 ------
 
-<table>
-<colgroup>
-<col width="6%" />
-<col width="93%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td align="left">2011</td>
-<td align="left">Thomas Hegarty Scholarship, John XXIII College - Best Performing Resident in 2010.</td>
-</tr>
-<tr class="even">
-<td align="left"></td>
-<td align="left">Best Performing First Year Resident in 2010, John XXIII College.</td>
-</tr>
-<tr class="odd">
-<td align="left">2010</td>
-<td align="left">ANU College of Engineering and Computer Science Dean's List</td>
-</tr>
-</tbody>
-</table>
+Thomas Hegarty Scholarship, John XXIII College - Best Performing Resident in 2010.
+
+Best Performing First Year Resident in 2010, John XXIII College.
+
+ANU College of Engineering and Computer Science Dean's List 2010.
 
 Skills
 ------
@@ -137,7 +101,7 @@ I am comfortable with the Eclipse, WebStorm, and Xcode IDEs and the Vim text edi
 
 ### Systems Administration
 
-I have resolved technical issues related to desktop and laptop computers, printers, and networks. I also have some experience with Active Directory and Exchange administration.
+I have resolved technical issues related to desktop and laptop computers, printers, and networks. I also have experience with Active Directory and Exchange administration.
 
 ### Languages
 
