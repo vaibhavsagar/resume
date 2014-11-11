@@ -46,7 +46,7 @@ Experience
 
 ### Agile Digital
 
-As a *Junior Software Developer* (April--September 2014), I developed applications using Agile processes with technologies including Javascript (AngularJS+jQuery), Objective-C, and Scala (Play2).
+As a *Junior Software Developer* (April--September 2014), I developed applications using Agile processes with technologies including JavaScript (AngularJS+jQuery), Objective-C, and Scala (Play2).
 
 ### CSIRO
 
