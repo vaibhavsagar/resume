@@ -11,8 +11,6 @@ Address  8 Bauhinia Street, O'Connor ACT 2602
 Email    <vaibhavsagar@gmail.com>
 
 LinkedIn <http://au.linkedin.com/in/vaibhavsagar>
-
-GitHub   <https://github.com/vaibhavsagar>
 -------- ----------------------------------------------------------------------
 
 

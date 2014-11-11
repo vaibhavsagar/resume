@@ -28,10 +28,6 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
 <td align="left">LinkedIn</td>
 <td align="left"><a href="http://au.linkedin.com/in/vaibhavsagar">http://au.linkedin.com/in/vaibhavsagar</a></td>
 </tr>
-<tr class="odd">
-<td align="left">GitHub</td>
-<td align="left"><a href="https://github.com/vaibhavsagar">https://github.com/vaibhavsagar</a></td>
-</tr>
 </tbody>
 </table>
 
