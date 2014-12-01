@@ -46,25 +46,25 @@ Experience
 
 ### Agile Digital
 
-As a *Junior Software Developer* (April--September 2014), I developed applications using Agile processes with technologies including JavaScript (AngularJS+jQuery), Objective-C, and Scala (Play2).
+*Junior Software Developer* (April--September 2014): Developed a web application for finding affordable housing in Canberra using AngularJS and Bootstrap and the front end of a native iOS application for user generated films using Objective-C. Also contributed to other projects using Scala.
 
 ### CSIRO
 
-As a *Vacation Scholar* (November 2013--February 2014) and *Volunteer Fellow* (February--June 2014), I worked with Semantic Web technologies and RESTful web services.
+*Vacation Scholar* (November 2013--February 2014) and *Volunteer Fellow* (February--June 2014): Developed RESTful APIs for Semantic Web research using Flask, RDFLib, ZeroMQ, etc.
 
 ### ANU College of Engineering and Computer Science
 
-As a *Tutor* (February--June 2012 and 2014) for COMP1100 Introduction to Programming and Algorithms, I ran tutorials using Haskell to teach computer science concepts.
+*Tutor* (February--June 2012 and 2014) for COMP1100 Introduction to Programming and Algorithms: Ran tutorials using Haskell to teach computer science concepts with an emphasis on functional programming.
 
-As a *Student Ambassador* (March--November 2013), I represented the College for various recruitment events and activities and spoke to prospective students about living in Canberra and studying at the ANU. I also ran labs in Processing for high schoolers as an introduction to programming.
+*Student Ambassador* (March--November 2013): Represented the College for various recruitment events and activities and spoke to prospective students about living in Canberra and studying at the ANU. Ran labs in Processing for high schoolers as an introduction to programming.
 
 ### John XXIII College
 
-As an *IT Consultant* (2011), *IT Administrator* (2012), and *Senior IT Consultant* (2013), I performed maintenance of computers, networks, and printers at College and provided technical support to residents. I led the IT team and oversaw the transition to an external IT service provider when this became necessary.
+*IT Consultant* (2011), *IT Administrator* (2012), and *Senior IT Consultant* (2013): Performed maintenance of computers, networks, and printers at College and provided technical support to residents. Led the IT team. Eventually oversaw the transition to an external IT service provider.
 
 ### Deloitte & Touche Consulting India Private Limited
 
-As an *Intern* (December 2011--January 2012), I supported an IT audit team by working with documentation.
+*Intern* (December 2011--January 2012): Supported an IT audit team by working with documentation.
 
 Extracurriculars
 ----------------
