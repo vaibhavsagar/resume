@@ -93,7 +93,7 @@ ANU College of Engineering and Computer Science Dean's List 2010.
 I have worked on a single-page web application using
 HTML/CSS(Bootstrap)/JS(AngularJS), a native iOS application using Objective-C,
 and web software in Python and Java using Flask, Requests, RDFLib, and ZeroMQ.
-I have helped first-year undergraduates learn Haskell and have some familiarity
+I have helped first-year undergraduates learn Haskell and an familiar
 with functional programming concepts.
 
 I am comfortable with the Eclipse, WebStorm, and Xcode IDEs and the Vim text
