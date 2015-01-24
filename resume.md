@@ -28,16 +28,14 @@ Class of 2013.
 
 ### Agile Digital ###
 
-*Junior Software Developer* (April--September 2014): Developed a web
-application for finding affordable housing in Canberra using AngularJS and
-Bootstrap and the front end of a native iOS application for user generated
-films using Objective-C. Also contributed to other projects using Scala.
+*Junior Software Developer* (April--September 2014): Developed a single-page
+web application for finding affordable housing in Canberra and the front end of
+a native iOS application for user generated films.
 
 ### CSIRO ###
 
 *Vacation Scholar* (November 2013--February 2014) and *Volunteer Fellow*
-(February--June 2014): Developed RESTful APIs for Semantic Web research using
-Flask, RDFLib, ZeroMQ, etc.
+(February--June 2014): Developed RESTful APIs for Semantic Web research.
 
 ### ANU College of Engineering and Computer Science ###
 
@@ -54,8 +52,8 @@ high schoolers as an introduction to programming.
 
 *IT Consultant* (2011), *IT Administrator* (2012), and *Senior IT Consultant*
 (2013): Performed maintenance of computers, networks, and printers at College
-and provided technical support to residents. Led the IT team. Eventually
-oversaw the transition to an external IT service provider.
+and provided technical support to residents. Led the IT team. Oversaw the
+transition to an external IT service provider.
 
 ### Deloitte & Touche Consulting India Private Limited ###
 
