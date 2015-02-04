@@ -26,6 +26,11 @@ Class of 2013.
 
 ## Experience ##
 
+### PT. Infotech Solutions ###
+
+*Programmer* (November--December 2014): Developed mobile applications for
+Dominos and the Starbucks Card in Indonesia.
+
 ### Agile Digital ###
 
 *Junior Software Developer* (April--September 2014): Developed a single-page
