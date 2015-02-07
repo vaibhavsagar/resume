@@ -93,10 +93,9 @@ ANU College of Engineering and Computer Science Dean's List 2010.
 
 ### Software Development ###
 
-I have worked on a single-page web application using
-HTML/CSS(Bootstrap)/JS(AngularJS), a native iOS application using Objective-C,
-and web servers in Python and Java using Flask, Requests, RDFLib, and ZeroMQ.
-I have dabbled in Haskell and Scala and am familiar with functional programming
+I have written software using HTML/CSS(Bootstrap)/JS(AngularJS), Objective-C,
+Python(Flask, Requests, RDFLib, and ZeroMQ), PHP(Drupal), and Java. I have
+dabbled in Haskell and Scala and am familiar with functional programming
 concepts.
 
 I am comfortable with the Eclipse, WebStorm, and Xcode IDEs and the Vim text
