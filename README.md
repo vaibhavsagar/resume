@@ -97,7 +97,7 @@ Skills
 
 I have written software using HTML/CSS(Bootstrap)/JS(AngularJS), Objective-C, Python(Flask, Requests, RDFLib, and ZeroMQ), PHP(Drupal), and Java. I have dabbled in Haskell and Scala and am familiar with functional programming concepts.
 
-I am comfortable with the Eclipse, WebStorm, and Xcode IDEs and the Vim text editor. For version control, I am most familiar with Git. For project management, testing and code review, I have used the Atlassian suite of products (Bamboo, Confluence, JIRA, and Stash) as well as Jenkins and Gerrit.
+I am comfortable with the Eclipse, WebStorm, and Xcode IDEs and the Vim text editor. I am most familiar with Git for version control. For project management, testing and code review, I have used the Atlassian suite of products (Bamboo, Confluence, JIRA, and Stash) as well as Jenkins, Gerrit and Redmine.
 
 ### Systems Administration
 

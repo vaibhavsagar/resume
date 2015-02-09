@@ -99,9 +99,10 @@ dabbled in Haskell and Scala and am familiar with functional programming
 concepts.
 
 I am comfortable with the Eclipse, WebStorm, and Xcode IDEs and the Vim text
-editor. For version control, I am most familiar with Git. For project
+editor. I am most familiar with Git for version control. For project
 management, testing and code review, I have used the Atlassian suite of
-products (Bamboo, Confluence, JIRA, and Stash) as well as Jenkins and Gerrit.
+products (Bamboo, Confluence, JIRA, and Stash) as well as Jenkins, Gerrit and
+Redmine.
 
 ### Systems Administration ###
 
