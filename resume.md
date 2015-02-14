@@ -6,7 +6,7 @@
 -------- ----------------------------------------------------------------------
 Phone    +61425059241
 
-Address  8 Bauhinia Street, O'Connor ACT 2602
+Location  Canberra, Australia
 
 Email    <vaibhavsagar@gmail.com>
 
