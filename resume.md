@@ -6,11 +6,11 @@
 -------- ----------------------------------------------------------------------
 Phone    +61425059241
 
-Location  Canberra, Australia
-
 Email    <vaibhavsagar@gmail.com>
 
 LinkedIn <http://au.linkedin.com/in/vaibhavsagar>
+
+Location Canberra, Australia
 -------- ----------------------------------------------------------------------
 
 
