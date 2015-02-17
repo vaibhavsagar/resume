@@ -48,7 +48,7 @@ Experience
 
 *Software Engineer* (January 2015--): Developing and supporting Drupal websites.
 
-### PT. Infotech Solutions
+### PT Infotech Solutions
 
 *Programmer* (November--December 2014): Developed mobile applications for Dominos and the Starbucks Card in Indonesia.
 
