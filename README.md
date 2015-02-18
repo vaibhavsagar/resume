@@ -99,7 +99,7 @@ I have written software using HTML/CSS(Bootstrap)/JS(AngularJS), Objective-C, Py
 
 I am comfortable with the Eclipse, WebStorm, and Xcode IDEs and the Vim text editor. I am most familiar with Git for version control. For project management, testing and code review, I have used the Atlassian suite of products (Bamboo, Confluence, JIRA, and Stash) as well as Jenkins, Gerrit and Redmine.
 
-### Systems Administration
+### Technical Support
 
 I have resolved technical issues related to desktop and laptop computers, printers, and networks. I also have experience with Active Directory and Exchange administration.
 
