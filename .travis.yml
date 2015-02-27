@@ -1,27 +1,23 @@
-branches:
-  only: master
 language: c
 install: bash prepare.sh
 script:
-    - make readme
-    - make html
+- make readme
+- make html
 notifications:
   email:
     on_success: always
     on_failure: always
-after_success:
-    - bash update_pages.sh
-    - echo $TRAVIS_TAG
+after_success: bash update_pages.sh
 before_deploy: bash build_pdf.sh
 deploy:
   provider: releases
-  api_key:
-    secure: F80xU1pmq9JMpN5XCeBsIG/XCerFgs8/9yIFHELbt8Dd+yPck0HNe/SfHpXQeb3J58u0qh70sxCHwpL2DBhqLCWwAglyV+BRVg2HRpBdHOcE/8GcPABGlRgWTqJDXivV3fKHeNFyEfKvlZKCMl1tZv9WK6R2m/ySV8iG4YGD4WU=
   file: Vaibhav_Sagar_resume.pdf
   on:
-    repo: vaibhavsagar/resumate
+    repo: vaibhavsagar/resume
     all_branches: true
     tags: true
+  api_key:
+    secure: gtBPUeDXL9S6h4aWyXCEhWxbtkATx2lIBmkVTcWDHMvgwQHmfo42OPq7rQWjO6g/iOlv71Q1VQMQc84ERcZjtBRSE0pb1s1Baqs2Hk7ec/JeWsEXDZmBIs/Z3V6pHb14zCs5GNYyerXDpQ97P4RG9Vjdy+rc3I1+kkuCMF7zB3k=
 env:
   global:
-    secure: Rx02Nd3cIXJ4KGZgIesJ2zb8ZRrwCs69c34t5qSv1U/8Wr0UiaZNOVWdjA0DjD8YvMOuxff2GGNR1NAwofhoDyoxdgS8B9y/eohVpx7fQI/k5iS0bSswBscYEAre3yV++3sbpQgm6svNXtv3a+AlVOecOH4Rd1fiPkPVdp/EYBQ=
+    secure: Bzof/7yN7HgV2eJk7FNliNx/cagIU4I113SwNJhChFyYOSy816oPrwQaCMyZuwvbcEIfLMY0K0qxtQK1MoPq7zTYiCTW3UPB2+mzTfTHPMTm5nWjZv0BmdqVoG8IJwxfo5cIV8hfKiu2ezNKcDuqgwb80mYwpTwlQPsY9gOm1Tc=
