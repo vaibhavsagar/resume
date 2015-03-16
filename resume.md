@@ -28,8 +28,8 @@ Class of 2013.
 
 ### Agileware ###
 
-*Software Engineer* (January 2015--): Developing and supporting Drupal
-websites.
+*Software Engineer* (January 2015--): Developing, updating, and supporting
+Drupal websites.
 
 ### PT Infotech Solutions ###
 
