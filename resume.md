@@ -98,8 +98,8 @@ Python(Flask, Requests, RDFLib, and ZeroMQ), PHP(Drupal), and Java. I have
 dabbled in Haskell and Scala and am familiar with functional programming
 concepts.
 
-I am comfortable with the Eclipse, WebStorm, and Xcode IDEs and the Vim text
-editor. I am most familiar with Git for version control. For project
+I have used the Eclipse, WebStorm, and Xcode IDEs, and Vim is my text editor of
+choice. I am most familiar with Git for version control. For project
 management, testing and code review, I have used the Atlassian suite of
 products (Bamboo, Confluence, JIRA, and Stash) as well as Jenkins, Gerrit and
 Redmine.
