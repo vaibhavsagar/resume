@@ -39,8 +39,8 @@ Dominos and the Starbucks Card in Indonesia.
 ### Agile Digital ###
 
 *Junior Software Developer* (April--September 2014): Developed a single-page
-web application for finding affordable housing in Canberra and the front end of
-a native iOS application for user generated films.
+web application for finding affordable housing in Canberra and worked on the
+front end of a native iOS application for user generated films.
 
 ### CSIRO ###
 
