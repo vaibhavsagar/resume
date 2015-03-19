@@ -101,8 +101,8 @@ concepts.
 I have used the Eclipse, WebStorm, and Xcode IDEs, and Vim is my text editor of
 choice. I am most familiar with Git for version control. For project
 management, testing and code review, I have used the Atlassian suite of
-products (Bamboo, Confluence, JIRA, and Stash) as well as Jenkins, Gerrit and
-Redmine.
+products (Bamboo, Confluence, JIRA, and Stash) as well as Jenkins, Gerrit,
+Redmine, and Travis CI.
 
 ### Technical Support ###
 
