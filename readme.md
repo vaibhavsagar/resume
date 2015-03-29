@@ -46,7 +46,7 @@ Experience
 
 ### Agileware
 
-*Software Engineer* (January 2015--): Developing and supporting Drupal websites.
+*Software Engineer* (January 2015--): Developing, updating, and supporting Drupal websites. Primary support contact.
 
 ### PT Infotech Solutions
 
@@ -54,7 +54,7 @@ Experience
 
 ### Agile Digital
 
-*Junior Software Developer* (April--September 2014): Developed a single-page web application for finding affordable housing in Canberra and the front end of a native iOS application for user generated films.
+*Junior Software Developer* (April--September 2014): Developed a single-page web application for finding affordable housing in Canberra and worked on the front end of a native iOS application for user generated films.
 
 ### CSIRO
 
@@ -97,7 +97,7 @@ Skills
 
 I have written software using HTML/CSS(Bootstrap)/JS(AngularJS), Objective-C, Python(Flask, Requests, RDFLib, and ZeroMQ), PHP(Drupal), and Java. I have dabbled in Haskell and Scala and am familiar with functional programming concepts.
 
-I am comfortable with the Eclipse, WebStorm, and Xcode IDEs and the Vim text editor. I am most familiar with Git for version control. For project management, testing and code review, I have used the Atlassian suite of products (Bamboo, Confluence, JIRA, and Stash) as well as Jenkins, Gerrit and Redmine.
+I have used the Eclipse, WebStorm, and Xcode IDEs, and Vim is my text editor of choice. I am most familiar with Git for version control. For project management, testing and code review, I have used the Atlassian suite of products (Bamboo, Confluence, JIRA, and Stash) as well as Jenkins, Gerrit, Redmine, and Travis CI.
 
 ### Technical Support
 
