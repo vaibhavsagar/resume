@@ -1,5 +1,6 @@
 language: c
 install: bash .ci/prepare.sh
+sudo: true
 script:
 - make readme
 - make html
