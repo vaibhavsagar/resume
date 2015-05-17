@@ -50,7 +50,7 @@ Experience
 
 ### PT Infotech Solutions
 
-*Programmer* (November--December 2014): Developed mobile applications for Dominos and the Starbucks Card in Indonesia.
+*Programmer* (November--December 2014): Worked on mobile applications for Dominos and the Starbucks Card in Indonesia.
 
 ### Agile Digital
 
