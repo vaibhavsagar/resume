@@ -56,8 +56,8 @@ with a strong emphasis on functional programming.
 
 *Student Ambassador* (March--November 2013): Represented the College for
 various recruitment events and activities and spoke to prospective students
-about living in Canberra and studying at the ANU. Ran labs in Processing for
-high schoolers as an introduction to programming.
+about living in Canberra and studying at the ANU. Ran labs for high schoolers
+as an introduction to programming.
 
 ### John XXIII College ###
 
