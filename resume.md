@@ -63,8 +63,8 @@ as an introduction to programming.
 
 *IT Consultant* (2011), *IT Administrator* (2012), and *Senior IT Consultant*
 (2013): Performed maintenance of computers, networks, and printers at College
-and provided technical support to residents. Led the IT team. Oversaw the
-transition to an external IT service provider.
+and provided technical support to residents and administrative staff. Led the
+IT team. Oversaw the transition to an external IT service provider.
 
 \pagebreak
 
