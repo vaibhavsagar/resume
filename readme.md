@@ -101,7 +101,7 @@ I have used the Eclipse, WebStorm, and Xcode IDEs, and Vim is my text editor of 
 
 ### Technical Support
 
-I have resolved technical issues related to desktop and laptop computers, printers, and networks. I also have experience with Active Directory and Exchange administration.
+I have resolved technical issues related to desktop and laptop computers, printers, websites, and networks. This has involved basic systems administration skills on Windows, Mac OS X, and Linux.
 
 ### Languages
 
