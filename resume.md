@@ -108,8 +108,8 @@ Redmine, and Travis CI.
 ### Technical Support ###
 
 I have resolved technical issues related to desktop and laptop computers,
-printers, and networks. I also have experience with Active Directory and
-Exchange administration.
+printers, websites, and networks. This has involved basic systems
+administration skills on Windows, Mac OS X, and Linux.
 
 ### Languages ###
 
