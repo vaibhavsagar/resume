@@ -94,10 +94,7 @@ ANU College of Engineering and Computer Science Dean's List 2010.
 
 ### Software Development ###
 
-I have written software using HTML/CSS(Bootstrap)/JS(AngularJS), Objective-C,
-Python(Flask, Requests, RDFLib, and ZeroMQ), PHP(Drupal), and Java. I have
-dabbled in Haskell and Scala and am familiar with functional programming
-concepts.
+Languages: Python, PHP, JavaScript, Java, and Objective-C.
 
 I have used the Eclipse, WebStorm, and Xcode IDEs, and Vim is my text editor of
 choice. I am most familiar with Git for version control. For project
