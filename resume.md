@@ -96,11 +96,8 @@ ANU College of Engineering and Computer Science Dean's List 2010.
 
 Languages: Python, PHP, JavaScript, Java, and Objective-C.
 
-I have used the Eclipse, WebStorm, and Xcode IDEs, and Vim is my text editor of
-choice. I am most familiar with Git for version control. For project
-management, testing and code review, I have used the Atlassian suite of
-products (Bamboo, Confluence, JIRA, and Stash) as well as Jenkins, Gerrit,
-Redmine, and Travis CI.
+Issues, Testing and Code Review: Atlassian suite (Bamboo, Bitbucket,
+Confluence, JIRA, and Stash), Jenkins, Gerrit, Github, Redmine, and Travis CI.
 
 ### Technical Support ###
 
