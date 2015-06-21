@@ -97,6 +97,8 @@ Skills
 
 Languages: Python, PHP, JavaScript, Java, and Objective-C.
 
+Frameworks: Flask, Drupal, and AngularJS
+
 Issues, Testing and Code Review: Atlassian suite (Bamboo, Bitbucket, Confluence, JIRA, and Stash), Jenkins, Gerrit, Github, Redmine, and Travis CI.
 
 ### Technical Support
