@@ -107,4 +107,4 @@ I have resolved technical issues related to desktop and laptop computers, printe
 
 ### Languages
 
-I speak Bahasa Indonesia at an intermediate level and Hindi at an advanced level.
+Bahasa Indonesia at an intermediate level and Hindi at an advanced level.
