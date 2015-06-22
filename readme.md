@@ -103,7 +103,7 @@ Issues, Testing and Code Review: Atlassian suite (Bamboo, Bitbucket, Confluence,
 
 ### Technical Support
 
-I have resolved technical issues related to desktop and laptop computers, printers, websites, and networks. This has involved basic systems administration skills on Windows, Mac OS X, and Linux.
+Resolving technical issues with desktop and laptop computers, printers, websites, and networks. This has involved basic systems administration skills on Windows, Mac OS X, and Linux.
 
 ### Languages
 
