@@ -103,9 +103,9 @@ Confluence, JIRA, and Stash), Jenkins, Gerrit, Github, Redmine, and Travis CI.
 
 ### Technical Support ###
 
-I have resolved technical issues related to desktop and laptop computers,
-printers, websites, and networks. This has involved basic systems
-administration skills on Windows, Mac OS X, and Linux.
+Resolving technical issues with desktop and laptop computers, printers,
+websites, and networks. This has involved basic systems administration skills
+on Windows, Mac OS X, and Linux.
 
 ### Languages ###
 
