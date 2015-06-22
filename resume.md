@@ -109,5 +109,4 @@ administration skills on Windows, Mac OS X, and Linux.
 
 ### Languages ###
 
-I speak Bahasa Indonesia at an intermediate level and Hindi at an advanced
-level.
+Bahasa Indonesia at an intermediate level and Hindi at an advanced level.
