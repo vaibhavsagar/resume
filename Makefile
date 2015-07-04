@@ -1,5 +1,7 @@
 all: pdf html readme
 
+travis: html readme
+
 pdf: resume.md templates/header.tex
 	pandoc resume.md -H templates/header.tex -o Vaibhav_Sagar_resume.pdf
 
