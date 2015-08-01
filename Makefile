@@ -1,3 +1,5 @@
+.PHONY: all travis pdf html readme clean
+
 all: pdf html readme
 
 travis: html readme
