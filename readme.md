@@ -46,7 +46,7 @@ Experience
 
 ### Agileware
 
-*Software Engineer* (January 2015--): Developing, updating, and supporting Drupal websites. Most likely to pick up the phone if you call.
+*Software Engineer* (January 2015--): Developing, updating, and supporting Drupal, CiviCRM, and Wordpress websites.
 
 ### PT Infotech Solutions
 
