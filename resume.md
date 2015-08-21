@@ -29,7 +29,7 @@ Class of 2013.
 ### Agileware ###
 
 *Software Engineer* (January 2015--): Developing, updating, and supporting
-Drupal websites. Most likely to pick up the phone if you call.
+Drupal, CiviCRM, and Wordpress websites.
 
 ### PT Infotech Solutions ###
 
