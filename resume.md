@@ -45,7 +45,7 @@ of a native iOS application for user generated films.
 ### CSIRO ###
 
 *Vacation Scholar* (November 2013--February 2014) and *Volunteer Fellow*
-(February--June 2014): Developed RESTful APIs and small server applications for
+(February--June 2014): Developed RESTful APIs and web applications for
 Semantic Web research.
 
 ### ANU College of Engineering and Computer Science ###
