@@ -30,8 +30,8 @@ Class of 2013.
 
 ### Agileware ###
 
-*Software Engineer* (January 2015--): Developing, updating, and supporting
-Drupal, CiviCRM, and Wordpress websites.
+*Software Engineer* (January 2015--March 2016): Developing, updating, and
+supporting Drupal, CiviCRM, and Wordpress websites.
 
 ### PT Infotech Solutions ###
 
