@@ -25,10 +25,14 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
 <td align="left"><a href="http://au.linkedin.com/in/vaibhavsagar" class="uri">http://au.linkedin.com/in/vaibhavsagar</a></td>
 </tr>
 <tr class="even">
-<td align="left">Website &lt;</td>
-<td align="left">http://www.vaibhavsagar.com&gt;</td>
+<td align="left">Website</td>
+<td align="left"><a href="http://www.vaibhavsagar.com" class="uri">http://www.vaibhavsagar.com</a></td>
 </tr>
 <tr class="odd">
+<td align="left">GitHub</td>
+<td align="left"><a href="https://github.com/vaibhavsagar" class="uri">https://github.com/vaibhavsagar</a></td>
+</tr>
+<tr class="even">
 <td align="left">Location</td>
 <td align="left">Canberra, Australia</td>
 </tr>
