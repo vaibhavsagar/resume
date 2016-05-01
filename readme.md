@@ -44,11 +44,6 @@ Objective
 
 Realise the potential of information technology to improve lives and bottom lines.
 
-Education
----------
-
-B. Economics/B. IT (Software Development), Australian National University, Class of 2013.
-
 Experience
 ----------
 
@@ -116,3 +111,8 @@ Resolving technical issues with desktop and laptop computers, printers, websites
 ### Languages
 
 Bahasa Indonesia at an intermediate level and Hindi at an advanced level.
+
+Education
+---------
+
+B. Economics/B. IT (Software Development), Australian National University, Class of 2013.
