@@ -73,26 +73,6 @@ Experience
 
 *IT Consultant* (2011), *IT Administrator* (2012), and *Senior IT Consultant* (2013): Performed maintenance of computers, networks, and printers at College and provided technical support to residents and administrative staff. Led the IT team. Oversaw the transition to an external IT service provider.
 
-Extracurriculars
-----------------
-
-ANU CECS SRC Third Year Representative, 2013.
-
-CECS Academic Mentor, John XXIII College, 2012-2013.
-
-ANUSA CECS Faculty Representative, 2012.
-
-CECS Faculty Head, John XXIII College, 2011.
-
-Awards
-------
-
-Thomas Hegarty Scholarship, John XXIII College - Best Performing Resident in 2010.
-
-Best Performing First Year Resident in 2010, John XXIII College.
-
-ANU College of Engineering and Computer Science Dean's List 2010.
-
 Skills
 ------
 
@@ -116,3 +96,17 @@ Education
 ---------
 
 B. Economics/B. IT (Software Development), Australian National University, Class of 2013.
+
+### Extracurriculars
+
+ANU CECS SRC Third Year Representative, 2013.
+
+ANUSA CECS Faculty Representative, 2012.
+
+### Awards
+
+Thomas Hegarty Scholarship, John XXIII College - Best Performing Resident in 2010.
+
+Best Performing First Year Resident in 2010, John XXIII College.
+
+ANU College of Engineering and Computer Science Dean's List 2010.
