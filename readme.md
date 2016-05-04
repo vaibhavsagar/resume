@@ -78,15 +78,9 @@ Skills
 
 ### Software Development
 
-Languages: Python, PHP, JavaScript, Java, and Objective-C.
+Languages: Python, PHP, and JavaScript.
 
-Frameworks: Flask, Drupal, CiviCRM, and AngularJS
-
-Issues, Testing and Code Review: Atlassian suite (Bamboo, Bitbucket, Confluence, JIRA, and Stash), Jenkins, Gerrit, Github, Redmine, and Travis CI.
-
-### Technical Support
-
-Resolving technical issues with desktop and laptop computers, printers, websites, and networks. This has involved basic systems administration skills on Windows, Mac OS X, and Linux.
+Frameworks: Drupal, CiviCRM, Flask, and AngularJS.
 
 ### Languages
 
