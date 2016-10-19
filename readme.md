@@ -13,12 +13,7 @@ Contact
 </tr>
 <tr class="even">
 <td align="left">Email</td>
-<td align="left"><script type="text/javascript">
-<!--
-h='&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;';a='&#64;';n='&#118;&#x61;&#x69;&#98;&#104;&#x61;&#118;&#x73;&#x61;&#x67;&#x61;&#114;';e=n+a+h;
-document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\/'+'a'+'>');
-// -->
-</script><noscript>&#118;&#x61;&#x69;&#98;&#104;&#x61;&#118;&#x73;&#x61;&#x67;&#x61;&#114;&#32;&#x61;&#116;&#32;&#x67;&#x6d;&#x61;&#x69;&#108;&#32;&#100;&#x6f;&#116;&#32;&#x63;&#x6f;&#x6d;</noscript></td>
+<td align="left"><a href="mailto:vaibhavsagar@gmail.com">vaibhavsagar@gmail.com</a></td>
 </tr>
 <tr class="odd">
 <td align="left">LinkedIn</td>
@@ -53,7 +48,7 @@ Experience
 
 ### PT Infotech Solutions
 
-*Programmer* (November--December 2014): Worked on mobile applications for Dominos and the Starbucks Card in Indonesia.
+*Programmer* (November--December 2014): Briefly worked for my parents on mobile applications for Dominos and the Starbucks Card in Indonesia.
 
 ### Agile Digital
 
