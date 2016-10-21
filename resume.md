@@ -26,8 +26,9 @@ lines.
 ### Recurse Center ###
 
 *Recurser* (August 2016--November 2016): Participated in a full-time
-programming retreat. Focused on becoming a better functional programmer
-by implementing a subset of `git` in Haskell.
+programming retreat. Focused on becoming a better functional programmer by
+implementing a subset of `git` in Haskell and using it to build a `git`
+internals workshop.
 
 ### Agileware ###
 
