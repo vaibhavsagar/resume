@@ -32,10 +32,6 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
 <td align="left">GitHub</td>
 <td align="left"><a href="https://github.com/vaibhavsagar" class="uri">https://github.com/vaibhavsagar</a></td>
 </tr>
-<tr class="even">
-<td align="left">Location</td>
-<td align="left">Canberra, Australia</td>
-</tr>
 </tbody>
 </table>
 
@@ -46,6 +42,10 @@ Realise the potential of information technology to improve lives and bottom line
 
 Experience
 ----------
+
+### Recurse Center
+
+*Recurser* (August 2016--November 2016): Participated in a full-time programming retreat. Focused on becoming a better functional programmer by implementing a subset of `git` in Haskell.
 
 ### Agileware
 
