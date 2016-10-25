@@ -35,21 +35,16 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
 </tbody>
 </table>
 
-Objective
----------
-
-Realise the potential of information technology to improve lives and bottom lines.
-
 Experience
 ----------
 
 ### Recurse Center
 
-*Recurser* (August 2016--November 2016): Participated in a full-time programming retreat. Focused on becoming a better functional programmer by implementing a subset of `git` in Haskell and using it to build a `git` internals workshop.
+*Participant* (August 2016--November 2016): Participated in a full-time programming retreat. Focused on becoming a better functional programmer by implementing a subset of `git` in Haskell and using it to build a `git` internals workshop.
 
 ### Agileware
 
-*Software Engineer* (January 2015--March 2016): Developing, updating, and supporting Drupal, CiviCRM, and Wordpress websites.
+*Software Engineer* (January 2015--March 2016): Developed, updated, and supported Drupal, CiviCRM, and Wordpress websites.
 
 ### PT Infotech Solutions
 
