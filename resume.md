@@ -19,10 +19,10 @@ GitHub   <https://github.com/vaibhavsagar>
 
 ### Recurse Center ###
 
-*Participant* (August 2016--November 2016): Participated in a full-time
-programming retreat. Focused on becoming a better functional programmer by
-implementing a subset of `git` in Haskell and using it to build a `git`
-internals workshop.
+*Participant* (August 2016--November 2016): Participated in a full-time,
+self-directed programming retreat. Focused on becoming a better functional
+programmer by implementing a subset of `git` in Haskell and using it to build a
+`git` internals workshop.
 
 ### Agileware ###
 
@@ -74,20 +74,10 @@ Languages: Python, PHP, and JavaScript.
 
 Frameworks: Drupal, CiviCRM, Flask, and AngularJS.
 
-### Languages ###
-
-Bahasa Indonesia at an intermediate level and Hindi at an advanced level.
-
 ## Education ##
 
 B. Economics/B. IT (Software Development), Australian National University,
 Class of 2013.
-
-### Extracurriculars ###
-
-ANU CECS SRC Third Year Representative, 2013.
-
-ANUSA CECS Faculty Representative, 2012.
 
 ### Awards ###
 
