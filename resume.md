@@ -64,8 +64,6 @@ as an introduction to programming.
 and provided technical support to residents and administrative staff. Led the
 IT team. Oversaw the transition to an external IT service provider.
 
-\pagebreak
-
 ## Skills ##
 
 ### Software Development ###
