@@ -32,8 +32,8 @@ internals workshop.
 
 ### Agileware ###
 
-*Software Engineer* (January 2015--March 2016): Developing, updating, and
-supporting Drupal, CiviCRM, and Wordpress websites.
+*Software Engineer* (January 2015--March 2016): Developed, updated, and
+supported Drupal, CiviCRM, and Wordpress websites.
 
 ### PT Infotech Solutions ###
 
