@@ -15,12 +15,6 @@ Website  <http://www.vaibhavsagar.com>
 GitHub   <https://github.com/vaibhavsagar>
 -------- ----------------------------------------------------------------------
 
-
-## Objective ##
-
-Realise the potential of information technology to improve lives and bottom
-lines.
-
 ## Experience ##
 
 ### Recurse Center ###
