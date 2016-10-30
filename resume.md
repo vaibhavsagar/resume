@@ -1,74 +1,53 @@
 % Vaibhav Sagar
 
-
-## Contact ##
-
--------- ----------------------------------------------------------------------
-Phone    +61425059241
-
-Email    <vaibhavsagar@gmail.com>
-
-LinkedIn <http://au.linkedin.com/in/vaibhavsagar>
-
-Website  <http://www.vaibhavsagar.com>
-
-GitHub   <https://github.com/vaibhavsagar>
--------- ----------------------------------------------------------------------
+vaibhavsagar@gmail.com \hfill
+au.linkedin.com/in/vaibhavsagar \hfill
+github.com/vaibhavsagar \hfill
+vaibhavsagar.com
 
 ## Experience ##
 
-### Recurse Center ###
+### Participant at Recurse Center \hfill August--November 2016 ###
 
-*Participant* (August 2016--November 2016): Participated in a full-time,
-self-directed programming retreat. Focused on becoming a better functional
-programmer by implementing a subset of `git` in Haskell and using it to build a
-`git` internals workshop.
+Participated in a full-time, self-directed programming retreat. Focused on
+becoming better at functional programming by implementing a subset of `git` in
+Haskell and using it to make a `git` internals workshop and a web server that
+serves `git` objects as JSON.
 
-### Agileware ###
+### Software Engineer at Agileware \hfill January 2015--March 2016 ###
 
-*Software Engineer* (January 2015--March 2016): Developed, updated, and
-supported Drupal, CiviCRM, and Wordpress websites.
+Developed, updated, and supported Drupal, CiviCRM, and Wordpress websites.
 
-### PT Infotech Solutions ###
+### Programmer at PT Infotech Solutions \hfill November--December 2014 ###
 
-*Programmer* (November--December 2014): Briefly worked for my parents on mobile
-applications for Dominos and the Starbucks Card in Indonesia.
+Briefly worked for my parents on mobile applications for Dominos and the
+Starbucks Card in Indonesia.
 
-### Agile Digital ###
+### Junior Software Developer at Agile Digital \hfill April--September 2014 ###
 
-*Junior Software Developer* (April--September 2014): Worked on a single-page
-web application for finding affordable housing in Canberra and the front end
-of a native iOS application for user generated films.
+Worked on a single-page web application for finding affordable housing in
+Canberra and the front end of a native iOS application for user generated
+films.
 
-### CSIRO ###
+### Vacation Scholar and Volunteer Fellow at CSIRO \hfill November 2013--June 2014 ###
 
-*Vacation Scholar* (November 2013--February 2014) and *Volunteer Fellow*
-(February--June 2014): Developed RESTful APIs and web applications for
-Semantic Web research.
+Developed RESTful APIs and web applications for Semantic Web research.
 
-### ANU College of Engineering and Computer Science ###
+### Tutor at ANU College of Engineering and Computer Science \hfill Semester 1, 2012 and 2014 ###
 
-*Tutor* (February--June 2012 and 2014) for COMP1100 Introduction to Programming
-and Algorithms: Ran tutorials using Haskell to teach computer science concepts
-with a strong emphasis on functional programming.
+Tutored COMP1100 Introduction to Programming and Algorithms: Ran tutorials
+using Haskell to teach computer science concepts with a strong emphasis on
+functional programming.
 
-*Student Ambassador* (March--November 2013): Represented the College for
-various recruitment events and activities and spoke to prospective students
-about living in Canberra and studying at the ANU. Ran labs for high schoolers
-as an introduction to programming.
+### LITSS at John XXIII College ANU \hfill 2011--2014 ###
 
-### John XXIII College ###
-
-*IT Consultant* (2011), *IT Administrator* (2012), and *Senior IT Consultant*
-(2013): Performed maintenance of computers, networks, and printers at College
-and provided technical support to residents and administrative staff. Led the
-IT team. Oversaw the transition to an external IT service provider.
+Performed maintenance of computers, networks, and printers at College and
+provided technical support to residents and administrative staff. Led the IT
+team and eventually oversaw the transition to an external IT service provider.
 
 ## Skills ##
 
-### Software Development ###
-
-Languages: Python, PHP, and JavaScript.
+Languages: Python, Haskell, PHP, and JavaScript.
 
 Frameworks: Drupal, CiviCRM, Flask, and AngularJS.
 
@@ -81,7 +60,5 @@ Class of 2013.
 
 Thomas Hegarty Scholarship, John XXIII College - Best Performing Resident in
 2010.
-
-Best Performing First Year Resident in 2010, John XXIII College.
 
 ANU College of Engineering and Computer Science Dean's List 2010.
