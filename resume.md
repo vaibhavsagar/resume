@@ -10,22 +10,25 @@ vaibhavsagar.com
 ### Participant at Recurse Center \hfill August--November 2016 ###
 
 Participated in a full-time, self-directed programming retreat. Focused on
-becoming better at functional programming by implementing a subset of `git` in
-Haskell and using it to make a `git` internals workshop and a web server that
-serves `git` objects as JSON.
+becoming better at functional programming and diving deep into my tools by
+implementing a subset of `git` in Haskell and using it to make a `git`
+internals workshop and a web server that serves `git` objects as JSON.
 
 ### Software Engineer at Agileware \hfill January 2015--March 2016 ###
 
-Developed, updated, and supported Drupal, CiviCRM, and Wordpress websites.
+Developed, updated, and supported Drupal, CiviCRM, and Wordpress websites and
+web applications. My work included Australian Government sites, one-man online
+shops, a system for a non-profit to accept and review bursary applications, and
+plugins for CiviCRM.
 
 ### Programmer at PT Infotech Solutions \hfill November--December 2014 ###
 
-Briefly worked for my parents on mobile applications for Dominos and the
-Starbucks Card in Indonesia.
+Briefly went back home and worked for my parents on mobile applications for
+Dominos and the Starbucks Card in Indonesia.
 
 ### Junior Software Developer at Agile Digital \hfill April--September 2014 ###
 
-Worked on a single-page web application for finding affordable housing in
+Developed a single-page web application for finding affordable housing in
 Canberra and the front end of a native iOS application for user generated
 films.
 
