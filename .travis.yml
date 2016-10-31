@@ -4,6 +4,7 @@ sudo: true
 cache:
   directories:
   - $HOME/.stack
+  - /usr/local/texlive/2016/bin/x86_64-linux
 addons:
   apt:
     packages:
