@@ -1,19 +1,17 @@
-.PHONY: all travis pdf html readme clean
+all:: pdf html readme
 
-all: pdf html readme
+travis:: html readme
 
-travis: html readme
-
-pdf: resume.md templates/header.tex
+pdf:: resume.md templates/header.tex
 	pandoc resume.md -H templates/header.tex -o Vaibhav_Sagar_resume.pdf
 
-html: resume.md templates/header.css
+html:: resume.md templates/header.css
 	pandoc resume.md -s -H templates/header.css -o index.html
 
-readme: resume.md
+readme:: resume.md
 	pandoc resume.md -t markdown_github -o readme.md
 
-clean:
+clean::
 	rm Vaibhav_Sagar_resume.pdf
 	rm readme.md
 	rm index.html
