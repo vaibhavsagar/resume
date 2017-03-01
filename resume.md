@@ -42,7 +42,7 @@ Tutored COMP1100 Introduction to Programming and Algorithms: Ran tutorials
 using Haskell to teach computer science concepts with a strong emphasis on
 functional programming.
 
-### LITSS at John XXIII College ANU \hfill 2011--2014 ###
+### LITSS at John XXIII College ANU \hfill 2011--2013 ###
 
 Performed maintenance of computers, networks, and printers at College and
 provided technical support to residents and administrative staff. Led the IT
