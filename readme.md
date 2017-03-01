@@ -27,7 +27,7 @@ Developed RESTful APIs and web applications for Semantic Web research.
 
 Tutored COMP1100 Introduction to Programming and Algorithms: Ran tutorials using Haskell to teach computer science concepts with a strong emphasis on functional programming.
 
-### LITSS at John XXIII College ANU 2011--2014
+### LITSS at John XXIII College ANU 2011--2013
 
 Performed maintenance of computers, networks, and printers at College and provided technical support to residents and administrative staff. Led the IT team and eventually oversaw the transition to an external IT service provider.
 
@@ -41,7 +41,7 @@ Frameworks: Drupal, CiviCRM, Flask, and AngularJS.
 Education
 ---------
 
-B. Economics/B. IT (Software Development), Australian National University, Class of 2013.
+B. IT (Software Development)/B. Economics, Australian National University, Class of 2013.
 
 ### Awards
 
