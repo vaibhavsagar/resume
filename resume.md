@@ -56,7 +56,7 @@ Frameworks: Drupal, CiviCRM, Flask, and AngularJS.
 
 ## Education ##
 
-B. Economics/B. IT (Software Development), Australian National University,
+B. IT (Software Development)/B. Economics, Australian National University,
 Class of 2013.
 
 ### Awards ###
