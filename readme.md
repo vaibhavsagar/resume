@@ -3,7 +3,7 @@ vaibhavsagar@gmail.com github.com/vaibhavsagar linkedin.com/in/vaibhavsagar vaib
 Experience
 ----------
 
-### Global DevOps Engineer at ZALORA April 2017--Present
+### Software Engineer - Global DevOps at ZALORA April 2017--Present
 
 -   Developing and supporting our custom cloud platform *Nix/NixOS*
 -   Practicing reproducible, immutable, and functional infrastructure
