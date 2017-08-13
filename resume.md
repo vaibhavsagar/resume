@@ -7,6 +7,12 @@ vaibhavsagar.com
 
 ## Experience ##
 
+### Global DevOps Engineer at ZALORA \hfill April 2017--Present
+
+- Developing and supporting our custom cloud platform \hfill _Nix/NixOS_
+- Practicing reproducible, immutable, and functional infrastructure
+- Deploying with minimal fanfare and no downtime
+
 ### Participant at Recurse Center \hfill August--November 2016 ###
 
 - Learned Haskell by implementing Git \hfill _Haskell_
