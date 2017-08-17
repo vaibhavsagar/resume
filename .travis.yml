@@ -9,10 +9,12 @@ script: make travis
 notifications:
   email:
     on_failure: always
-before_deploy: bash .ci/build_pdf.sh
 after_success:
 - bash .ci/update_pages.sh
 - nix-collect-garbage
+before_deploy:
+- nix-env -i texlive-combined-full-2016
+- make pdf
 deploy:
   provider: releases
   file: Vaibhav_Sagar_resume.pdf
