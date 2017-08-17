@@ -4,7 +4,7 @@ cache:
   directories:
   - /nix/store
 install:
-- nix-env -i haskellPackages.pandoc
+- nix-env -i pandoc
 script: make travis
 notifications:
   email:
