@@ -1,8 +1,6 @@
 language: nix
 
-install:
-- nix-env -i pandoc
-script: make travis
+script: nix-shell -p pandoc --run "make travis"
 notifications:
   email:
     on_failure: always
