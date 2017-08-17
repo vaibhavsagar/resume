@@ -6,8 +6,7 @@ notifications:
     on_failure: always
 after_success: bash .ci/update_pages.sh
 before_deploy:
-- nix-env -i texlive-combined-full-2016
-- make pdf
+- nix-shell -p 'texlive.combine { inherit (texlive) scheme-basic booktabs ec lm preprint titling;}' pandoc --run "make pdf"
 deploy:
   provider: releases
   file: Vaibhav_Sagar_resume.pdf
