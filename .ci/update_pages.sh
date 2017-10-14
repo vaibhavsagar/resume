@@ -12,7 +12,7 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
     git clone --quiet --branch=$BRANCH https://${GH_TOKEN}@github.com/$TARGET_REPO build > /dev/null
     # go into directory and copy data we're interested in to that directory
     cd build
-    cp ../readme.md ../index.html .
+    cp ../result/readme.md ../result/index.html .
     # add, commit and push files
     git add -f .
     git commit -m "Travis build $TRAVIS_BUILD_NUMBER pushed to Github Pages"
