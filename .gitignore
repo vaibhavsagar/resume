@@ -218,3 +218,5 @@ pip-log.txt
 *.pdf
 index.html
 readme.md
+result
+.*@neomake*
