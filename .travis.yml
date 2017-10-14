@@ -1,29 +1,12 @@
-language: c
-sudo: true
+language: nix
 
-cache:
-  directories:
-  - $HOME/.stack
-  - /usr/local/texlive/2016/bin/x86_64-linux
-addons:
-  apt:
-    packages:
-    - libgmp-dev
-    - xzdec
-before_install:
-- mkdir -p $HOME/.local/bin
-- travis_retry curl -L https://www.stackage.org/stack/linux-x86_64 | tar xz --wildcards --strip-components=1 -C ~/.local/bin '*/stack'
-
-install:
-- stack setup
-- stack install pandoc
-script: make travis
+script: nix-shell -p pandoc --run "make travis"
 notifications:
   email:
-    on_success: always
     on_failure: always
 after_success: bash .ci/update_pages.sh
-before_deploy: bash .ci/build_pdf.sh
+before_deploy:
+- nix-shell -p 'texlive.combine { inherit (texlive) scheme-basic booktabs ec lm preprint titling;}' pandoc --run "make pdf"
 deploy:
   provider: releases
   file: Vaibhav_Sagar_resume.pdf
