@@ -11,7 +11,7 @@ vaibhavsagar.com
 
 - Developing and supporting our custom cloud platform \hfill _Nix/NixOS_
 - Practicing reproducible, immutable, and functional infrastructure
-- Deploying with minimal fanfare and no downtime
+- Engineering for high availability and zero downtime
 
 ### Participant at Recurse Center \hfill August--November 2016 ###
 
@@ -25,11 +25,9 @@ vaibhavsagar.com
 ### Software Engineer at Agileware \hfill January 2015--March 2016 ###
 
 - Developed web applications on Drupal, CiviCRM, and Wordpress \hfill _PHP_
-- Improved internal Visual QA infrastructure for seamless upgrades
 - Built a system to allocate $1,000,000 in grants to young carers
 - Clients ranged from Australian Government departments to sole traders
 - Gave a presentation on Git at DrupalGov Canberra
-- Provided Drupal developer training
 
 ### Junior Software Developer at Agile Digital \hfill April--September 2014 ###
 
@@ -37,7 +35,6 @@ vaibhavsagar.com
   Canberra \hfill _JavaScript_
 - Built the front end of a native iOS app for user generated films \hfill
   _Objective-C_
-- Updated internal tools and older projects \hfill _Scala_
 
 ### Vacation Scholar and Volunteer Fellow at CSIRO \hfill November 2013--June 2014 ###
 
