@@ -8,7 +8,7 @@ Experience
 
 -   Developing and supporting our custom cloud platform *Nix/NixOS*
 -   Practicing reproducible, immutable, and functional infrastructure
--   Engineering for high availability and zero downtime
+-   Deploying with minimal fanfare and no downtime
 
 ### Participant at Recurse Center August–November 2016
 
@@ -23,10 +23,12 @@ Experience
 ### Software Engineer at Agileware January 2015–March 2016
 
 -   Developed web applications on Drupal, CiviCRM, and Wordpress *PHP*
+-   Improved internal Visual QA infrastructure for seamless upgrades
 -   Built a system to allocate $1,000,000 in grants to young carers
 -   Clients ranged from Australian Government departments to sole
     traders
 -   Gave a presentation on Git at DrupalGov Canberra
+-   Provided Drupal developer training
 
 ### Junior Software Developer at Agile Digital April–September 2014
 
@@ -34,6 +36,7 @@ Experience
     housing in Canberra *JavaScript*
 -   Built the front end of a native iOS app for user generated films
     *Objective-C*
+-   Updated internal tools and older projects *Scala*
 
 ### Vacation Scholar and Volunteer Fellow at CSIRO November 2013–June 2014
 
