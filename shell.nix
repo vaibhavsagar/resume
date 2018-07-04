@@ -1,4 +1,4 @@
-{ nixpkgs ? import <nixpkgs> {} }:
+{ nixpkgs ? import (import ./pkgs.nix).nixpkgs {} }:
 let
   inherit (nixpkgs) pkgs;
   tex = pkgs.texlive.combine {
