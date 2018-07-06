@@ -1,15 +1,15 @@
 language: nix
 
-script: nix-shell -A travis --run "make travis"
+script: nix-build -A travis
 notifications:
   email:
     on_failure: always
 after_success: bash .ci/update_pages.sh
 before_deploy:
-- nix-shell -A pdf --run "make pdf"
+- nix-build -A pdf
 deploy:
   provider: releases
-  file: Vaibhav_Sagar_resume.pdf
+  file: result/Vaibhav_Sagar_resume.pdf
   on:
     repo: vaibhavsagar/resume
     all_branches: true
