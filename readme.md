@@ -4,7 +4,7 @@ linkedin.com/in/vaibhavsagar vaibhavsagar.com
 Experience
 ----------
 
-### Software Engineer - Global DevOps at ZALORA April 2017–Present
+### Software Engineer - Global DevOps at ZALORA April 2017–July 2018
 
 -   Developing and supporting our custom cloud platform *Nix/NixOS*
 -   Practicing reproducible, immutable, and functional infrastructure
