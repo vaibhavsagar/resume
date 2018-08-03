@@ -1,60 +1,59 @@
-vaibhavsagar@gmail.com github.com/vaibhavsagar
-linkedin.com/in/vaibhavsagar vaibhavsagar.com
+vaibhavsagar@gmail.com  github.com/vaibhavsagar 
+linkedin.com/in/vaibhavsagar  vaibhavsagar.com
 
-Experience
-----------
+## Experience
 
 ### Software Engineer - Global DevOps at ZALORA April 2017–July 2018
 
--   Developing and supporting our custom cloud platform *Nix/NixOS*
--   Practicing reproducible, immutable, and functional infrastructure
--   Engineering for high availability and zero downtime
+  - Developing and supporting our custom cloud platform *Nix/NixOS*
+  - Practicing reproducible, immutable, and functional infrastructure
+  - Engineering for high availability and zero downtime
 
 ### Participant at Recurse Center August–November 2016
 
--   Learned Haskell by implementing Git *Haskell*
--   Made a Git internals workshop and a web service that serves a Git
+  - Learned Haskell by implementing Git *Haskell*
+  - Made a Git internals workshop and a web service that serves a Git
     repository as JSON
--   Presented at the September meeting of the New York Haskell Users
+  - Presented at the September meeting of the New York Haskell Users
     Group and Hack && Tell 39
--   Contributed to the Glasgow Haskell Compiler and the IHaskell Jupyter
+  - Contributed to the Glasgow Haskell Compiler and the IHaskell Jupyter
     kernel
 
 ### Software Engineer at Agileware January 2015–March 2016
 
--   Developed web applications on Drupal, CiviCRM, and Wordpress *PHP*
--   Built a system to allocate $1,000,000 in grants to young carers
--   Clients ranged from Australian Government departments to sole
+  - Developed web applications on Drupal, CiviCRM, and Wordpress *PHP*
+  - Built a system to allocate $1,000,000 in grants to young carers
+  - Clients ranged from Australian Government departments to sole
     traders
--   Gave a presentation on Git at DrupalGov Canberra
+  - Gave a presentation on Git at DrupalGov Canberra
 
 ### Junior Software Developer at Agile Digital April–September 2014
 
--   Developed a single-page web application for finding affordable
+  - Developed a single-page web application for finding affordable
     housing in Canberra *JavaScript*
--   Built the front end of a native iOS app for user generated films
+  - Built the front end of a native iOS app for user generated films 
     *Objective-C*
 
 ### Vacation Scholar and Volunteer Fellow at CSIRO November 2013–June 2014
 
--   Developed RESTful APIs for Semantic Web research *Python*
+  - Developed RESTful APIs for Semantic Web research
+*Python*
 
 ### Tutor at ANU College of Engineering and Computer Science Semester 1, 2012 and 2014
 
--   Tutored COMP1100 Introduction to Programming and Algorithms
+  - Tutored COMP1100 Introduction to Programming and Algorithms
     *Haskell*
--   Taught computer science concepts with a strong emphasis on
+  - Taught computer science concepts with a strong emphasis on
     functional programming
 
 ### LITSS at John XXIII College ANU 2011–2013
 
--   Performed maintenance of computers, networks, and printers at
+  - Performed maintenance of computers, networks, and printers at
     College
--   Provided technical support to residents and administrative staff
--   Oversaw the transition to an external IT service provider
+  - Provided technical support to residents and administrative staff
+  - Oversaw the transition to an external IT service provider
 
-Education
----------
+## Education
 
 B. IT (Software Development)/B. Economics, Australian National
 University, Class of 2013.
