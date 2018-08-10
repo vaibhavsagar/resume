@@ -20,7 +20,7 @@ in rec {
     pandoc $src/resume.md -H $src/templates/header.tex -o $workdir/Vaibhav_Sagar_resume.pdf
     mv $workdir/Vaibhav_Sagar_resume.pdf $out
   '';
-  readme = pkgs.runCommand "html" {
+  readme = pkgs.runCommand "readme" {
     inherit src;
     buildInputs = [ pkgs.haskellPackages.pandoc ];
   } ''
