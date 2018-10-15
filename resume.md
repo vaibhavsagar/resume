@@ -7,6 +7,10 @@ vaibhavsagar.com
 
 ## Experience ##
 
+### Software Developer at Obsidian Systems \hfill August 2018--Present
+
+- Software consulting specialising in the Reflex FRP framework \hfill _Haskell_
+
 ### Software Engineer - Global DevOps at ZALORA \hfill April 2017--July 2018
 
 - Developing and supporting our custom cloud platform \hfill _Nix/NixOS_
