@@ -3,6 +3,11 @@ linkedin.com/in/vaibhavsagar  vaibhavsagar.com
 
 ## Experience
 
+### Software Developer at Obsidian Systems August 2018–Present
+
+  - Software consulting specialising in the Reflex FRP framework
+    *Haskell*
+
 ### Software Engineer - Global DevOps at ZALORA April 2017–July 2018
 
   - Developing and supporting our custom cloud platform *Nix/NixOS*
@@ -45,13 +50,6 @@ linkedin.com/in/vaibhavsagar  vaibhavsagar.com
     *Haskell*
   - Taught computer science concepts with a strong emphasis on
     functional programming
-
-### LITSS at John XXIII College ANU 2011–2013
-
-  - Performed maintenance of computers, networks, and printers at
-    College
-  - Provided technical support to residents and administrative staff
-  - Oversaw the transition to an external IT service provider
 
 ## Education
 
