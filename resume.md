@@ -50,12 +50,6 @@ vaibhavsagar.com
 - Taught computer science concepts with a strong emphasis on functional
   programming
 
-### LITSS at John XXIII College ANU \hfill 2011--2013 ###
-
-- Performed maintenance of computers, networks, and printers at College
-- Provided technical support to residents and administrative staff
-- Oversaw the transition to an external IT service provider
-
 ## Education ##
 
 B. IT (Software Development)/B. Economics, Australian National University,
