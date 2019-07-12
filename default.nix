@@ -27,9 +27,8 @@ in rec {
     mkdir -p $out
     pandoc $src/resume.md -t gfm -o $out/readme.md
   '';
-  travis = pkgs.runCommand "travis" {} ''
-    mkdir $out
-    cp ${html}/index.html $out/index.html
-    cp ${readme}/readme.md $out/readme.md
-  '';
+  travis = pkgs.buildEnv {
+    name = "travis";
+    paths = [ html readme ];
+  };
 }
