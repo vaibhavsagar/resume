@@ -1,10 +1,14 @@
 { nixpkgs ? import (import ./pkgs.nix).nixpkgs {} }:
 let
   inherit (nixpkgs) pkgs;
+  inherit (pkgs) lib;
   tex = pkgs.texlive.combine {
     inherit (pkgs.texlive) scheme-basic booktabs ec lm preprint titling xcolor;
   };
-  src = pkgs.lib.cleanSource ./.;
+  filter = ls: src: name: type: let
+    relPath = lib.removePrefix (toString src + "/") (toString name);
+  in lib.cleanSourceFilter name type && (builtins.any (lib.flip lib.hasPrefix relPath) ls);
+  src = builtins.filterSource (filter [ "resume.md" "templates" ] ./.) ./.;
 in rec {
   html   = pkgs.runCommand "html" {
     inherit src;
