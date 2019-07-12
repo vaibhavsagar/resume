@@ -3,7 +3,7 @@ BRANCH=gh-pages
 TARGET_REPO=vaibhavsagar/resume.git
 
 if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
-    echo -e "Starting to deploy to Github Pages\n"
+    echo -e "Starting to deploy to Github Pages\\n"
     if [ "$TRAVIS" == "true" ]; then
         git config --global user.email "travis@travis-ci.org"
         git config --global user.name "Travis"
@@ -14,8 +14,8 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
     cd build
     cp ../result/readme.md ../result/index.html .
     # add, commit and push files
-    git add -f .
-    git commit -m "Travis build $TRAVIS_BUILD_NUMBER pushed to Github Pages"
+    git add --all .
+    git commit --allow-empty -m "Travis build $TRAVIS_BUILD_NUMBER pushed to Github Pages"
     git push -fq origin $BRANCH > /dev/null
     echo -e "Deploy completed\n"
 fi
