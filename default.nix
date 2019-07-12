@@ -10,7 +10,8 @@ in rec {
     inherit src;
     buildInputs = [ pkgs.haskellPackages.pandoc ];
   } ''
-    pandoc $src/resume.md -s -H $src/templates/header.css -t html -o $out
+    mkdir -p $out
+    pandoc $src/resume.md -s -H $src/templates/header.css -t html -o $out/index.html
   '';
   pdf    = pkgs.runCommand "pdf" {
     inherit src;
@@ -23,11 +24,12 @@ in rec {
     inherit src;
     buildInputs = [ pkgs.haskellPackages.pandoc ];
   } ''
-    pandoc $src/resume.md -t gfm -o $out
+    mkdir -p $out
+    pandoc $src/resume.md -t gfm -o $out/readme.md
   '';
   travis = pkgs.runCommand "travis" {} ''
     mkdir $out
-    cp ${html} $out/index.html
-    cp ${readme} $out/readme.md
+    cp ${html}/index.html $out/index.html
+    cp ${readme}/readme.md $out/readme.md
   '';
 }
