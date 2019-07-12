@@ -2,7 +2,7 @@
 let
   inherit (nixpkgs) pkgs;
   tex = pkgs.texlive.combine {
-    inherit (pkgs.texlive) scheme-basic booktabs ec lm preprint titling;
+    inherit (pkgs.texlive) scheme-basic booktabs ec lm preprint titling xcolor;
   };
   src = pkgs.lib.cleanSource ./.;
 in rec {
@@ -14,11 +14,10 @@ in rec {
   '';
   pdf    = pkgs.runCommand "pdf" {
     inherit src;
-    buildInputs = [ pkgs.coreutils pkgs.haskellPackages.pandoc tex ];
+    buildInputs = [ pkgs.haskellPackages.pandoc tex ];
   } ''
-    workdir=$(mktemp -d)
-    pandoc $src/resume.md -H $src/templates/header.tex -o $workdir/Vaibhav_Sagar_resume.pdf
-    mv $workdir/Vaibhav_Sagar_resume.pdf $out
+    mkdir -p $out
+    pandoc $src/resume.md -H $src/templates/header.tex -o $out/Vaibhav_Sagar_resume.pdf
   '';
   readme = pkgs.runCommand "readme" {
     inherit src;
