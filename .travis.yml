@@ -13,7 +13,7 @@ before_deploy:
 - nix-build -A pdf
 deploy:
   provider: releases
-  file: result
+  file: result/Vaibhav_Sagar_resume.pdf
   on:
     repo: vaibhavsagar/resume
     all_branches: true
