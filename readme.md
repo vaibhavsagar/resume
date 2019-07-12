@@ -41,8 +41,7 @@ linkedin.com/in/vaibhavsagar  vaibhavsagar.com
 
 ### Vacation Scholar and Volunteer Fellow at CSIRO November 2013–June 2014
 
-  - Developed RESTful APIs for Semantic Web research
-*Python*
+  - Developed RESTful APIs for Semantic Web research *Python*
 
 ### Tutor at ANU College of Engineering and Computer Science Semester 1, 2012 and 2014
 
