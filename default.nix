@@ -15,7 +15,7 @@ in rec {
     buildInputs = [ pkgs.haskellPackages.pandoc ];
   } ''
     mkdir -p $out
-    pandoc $src/resume.md -s -H $src/templates/header.css -t html -o $out/index.html
+    pandoc $src/resume.md -s -H $src/templates/header.css -A $src/templates/tracking.html -t html -o $out/index.html
   '';
   pdf    = pkgs.runCommand "pdf" {
     inherit src;
