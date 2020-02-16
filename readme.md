@@ -3,7 +3,7 @@ linkedin.com/in/vaibhavsagar  vaibhavsagar.com
 
 ## Experience
 
-### Software Developer at Obsidian Systems August 2018–Present
+### Software Developer at Obsidian Systems August 2018–February 2020
 
   - Software consulting specialising in the Reflex FRP framework
     *Haskell & Nix*
