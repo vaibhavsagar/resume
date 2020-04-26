@@ -1,9 +1,9 @@
 % Vaibhav Sagar
 
 vaibhavsagar@gmail.com       \hfill
+vaibhavsagar.com             \hfill
 github.com/vaibhavsagar      \hfill
-linkedin.com/in/vaibhavsagar \hfill
-vaibhavsagar.com
+linkedin.com/in/vaibhavsagar
 
 ## Experience ##
 
