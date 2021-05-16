@@ -7,6 +7,11 @@ linkedin.com/in/vaibhavsagar
 
 ## Experience ##
 
+### Software Engineer II at KeyMe Locksmiths \hfill May 2020--Present
+
+- Part of the Control Systems team working on the kiosk codebase \hfill _Python
+  & Haskell_
+
 ### Software Developer at Obsidian Systems \hfill August 2018--February 2020
 
 - Software consulting specialising in the Reflex FRP framework \hfill _Haskell
@@ -23,15 +28,6 @@ linkedin.com/in/vaibhavsagar
 - Engineering for high availability and zero downtime
 - Participating in an on-call rotation on a small team
 - Spoke at linux.conf.au, !!Con, and YOW! Lambda Jam
-
-### Participant at Recurse Center \hfill August--November 2016 ###
-
-- Learned Haskell by implementing Git parsers and serialisers  \hfill _Haskell_
-- Made a Git internals workshop and a web service that serves a Git repository
-  as JSON
-- Presented at the September meeting of the New York Haskell Users Group and
-  Hack && Tell 39
-- Contributed to the Glasgow Haskell Compiler and the IHaskell Jupyter kernel
 
 ### Software Engineer at Agileware \hfill January 2015--March 2016 ###
 
@@ -52,5 +48,13 @@ linkedin.com/in/vaibhavsagar
 
 ## Education ##
 
-B. IT (Software Development)/B. Economics, Australian National University,
-Class of 2013.
+### Recurse Center, Fall 1 2016 ###
+
+- Learned Haskell by implementing Git parsers and serialisers  \hfill _Haskell_
+- Made a Git internals workshop and a web service that serves a Git repository
+  as JSON
+- Presented at the September meeting of the New York Haskell Users Group and
+  Hack && Tell 39
+- Contributed to the Glasgow Haskell Compiler and the IHaskell Jupyter kernel
+
+### B. IT (Software Development)/B. Economics, Australian National University, Class of 2013 ###
