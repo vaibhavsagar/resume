@@ -11,6 +11,11 @@ linkedin.com/in/vaibhavsagar
 
 - Part of the Control Systems team working on the kiosk codebase \hfill _Python
   & Haskell_
+- Implemented a memory-monitoring service for our kiosks
+- Enabled audit logging of shell sessions to meet a tight PCI compliance
+  deadline
+- Implemented support for the Ingenico iUC285 reader, enabling our kiosks to
+  accept contactless and chip insert payments
 
 ### Software Developer at Obsidian Systems \hfill August 2018--February 2020
 
