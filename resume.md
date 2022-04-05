@@ -7,7 +7,11 @@ linkedin.com/in/vaibhavsagar
 
 ## Experience ##
 
-### Software Engineer II at KeyMe Locksmiths \hfill May 2020--Present
+### Senior Software Engineer at Mercury \hfill March 2022--Present
+
+- Building the best banking stack for startups \hfill _Haskell & Nix_
+
+### Software Engineer II at KeyMe Locksmiths \hfill May 2020--February 2022
 
 - Part of the Control Systems team working on the kiosk codebase \hfill _Python
   & Haskell_
@@ -37,13 +41,6 @@ linkedin.com/in/vaibhavsagar
 ### Software Engineer at Agileware \hfill January 2015--March 2016 ###
 
 - Developed web applications using Drupal, CiviCRM, and Wordpress \hfill _PHP_
-
-### Junior Software Developer at Agile Digital \hfill April--September 2014 ###
-
-- Developed a single-page web application for finding affordable housing in
-  Canberra \hfill _JavaScript_
-- Built the front end of a native iOS app for user generated films \hfill
-  _Objective-C_
 
 ### Tutor at ANU College of Engineering and Computer Science \hfill Semester 1, 2012 and 2014 ###
 
