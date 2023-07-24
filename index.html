@@ -21,7 +21,7 @@
       padding-top: 50px;
       padding-bottom: 50px;
       hyphens: auto;
-      word-wrap: break-word;
+      overflow-wrap: break-word;
       text-rendering: optimizeLegibility;
       font-kerning: normal;
     }
@@ -29,6 +29,9 @@
       body {
         font-size: 0.9em;
         padding: 1em;
+      }
+      h1 {
+        font-size: 1.8em;
       }
     }
     @media print {
@@ -92,6 +95,7 @@
     pre code {
       padding: 0;
       overflow: visible;
+      overflow-wrap: normal;
     }
     .sourceCode {
      background-color: transparent;
@@ -133,20 +137,28 @@
     #TOC li {
       list-style: none;
     }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
     #TOC a:not(:hover) {
       text-decoration: none;
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
   <style type="text/css">
   body {
       margin: auto;
@@ -228,57 +240,92 @@
           text-align: center;
           }
   </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
 </head>
 <body>
 <header id="title-block-header">
 <h1 class="title">Vaibhav Sagar</h1>
 </header>
-<p>vaibhavsagar@gmail.com  vaibhavsagar.com  github.com/vaibhavsagar  linkedin.com/in/vaibhavsagar</p>
+<p>vaibhavsagar@gmail.com vaibhavsagar.com github.com/vaibhavsagar
+linkedin.com/in/vaibhavsagar</p>
 <h2 id="experience">Experience</h2>
-<h3 id="senior-software-engineer-at-mercury-march-2022present">Senior Software Engineer at Mercury March 2022–Present</h3>
+<h3 id="senior-software-engineer-at-mercury-march-2022june-2023">Senior
+Software Engineer at Mercury March 2022–June 2023</h3>
 <ul>
-<li>Building the best banking stack for startups <em>Haskell &amp; Nix</em></li>
+<li>Building the best banking stack for startups <em>Haskell &amp;
+Nix</em></li>
+<li>Worked on the Support Product and Growth teams</li>
+<li>Implemented features including seamless customer reimbursement,
+“magic” links for new applicants, recipient invites, and queued payments
+to recipients</li>
 </ul>
-<h3 id="software-engineer-ii-at-keyme-locksmiths-may-2020february-2022">Software Engineer II at KeyMe Locksmiths May 2020–February 2022</h3>
+<h3
+id="software-engineer-ii-at-keyme-locksmiths-may-2020february-2022">Software
+Engineer II at KeyMe Locksmiths May 2020–February 2022</h3>
 <ul>
-<li>Part of the Control Systems team working on the kiosk codebase <em>Python &amp; Haskell</em></li>
-<li>Implemented a memory-monitoring service for our kiosks</li>
-<li>Enabled audit logging of shell sessions to meet a tight PCI compliance deadline</li>
-<li>Implemented support for the Ingenico iUC285 reader, enabling our kiosks to accept contactless and chip insert payments</li>
+<li>Part of the Control Systems team working on the kiosk codebase
+<em>Python &amp; Haskell</em></li>
+<li>Built a memory-monitoring service for our kiosks</li>
+<li>Implemented support for the Ingenico iUC285 reader, enabling our
+kiosks to accept contactless and chip insert payments</li>
 </ul>
-<h3 id="software-developer-at-obsidian-systems-august-2018february-2020">Software Developer at Obsidian Systems August 2018–February 2020</h3>
+<h3
+id="software-developer-at-obsidian-systems-august-2018february-2020">Software
+Developer at Obsidian Systems August 2018–February 2020</h3>
 <ul>
-<li>Software consulting specialising in the Reflex FRP framework <em>Haskell &amp; Nix</em></li>
-<li>Improved tooling and infrastructure for the Pact smart contract language</li>
-<li>Implemented features across the frontend, backend, and data pipeline for a company that provides customer loyalty programs as a service</li>
-<li>Spoke at HaskellX, StarCon, !!Con, EMPEX, Compose NYC, and Strange Loop</li>
+<li>Software consulting specialising in the Reflex FRP framework
+<em>Haskell &amp; Nix</em></li>
+<li>Improved tooling and infrastructure for the Pact smart contract
+language</li>
+<li>Implemented features across the frontend, backend, and data pipeline
+for a company that provides customer loyalty programs as a service</li>
+<li>Spoke at HaskellX, StarCon, !!Con, EMPEX, Compose NYC, and Strange
+Loop</li>
 </ul>
-<h3 id="software-engineer---global-devops-at-zalora-april-2017july-2018">Software Engineer - Global DevOps at ZALORA April 2017–July 2018</h3>
+<h3
+id="software-engineer---global-devops-at-zalora-april-2017july-2018">Software
+Engineer - Global DevOps at ZALORA April 2017–July 2018</h3>
 <ul>
-<li>Developing and supporting our custom cloud platform <em>Nix/NixOS</em></li>
-<li>Practicing reproducible, immutable, and functional infrastructure</li>
-<li>Engineering for high availability and zero downtime</li>
-<li>Participating in an on-call rotation on a small team</li>
+<li>Developing and supporting our custom cloud platform
+<em>Nix/NixOS</em></li>
+<li>Practicing reproducible, immutable, and functional
+infrastructure</li>
 <li>Spoke at linux.conf.au, !!Con, and YOW! Lambda Jam</li>
 </ul>
-<h3 id="software-engineer-at-agileware-january-2015march-2016">Software Engineer at Agileware January 2015–March 2016</h3>
+<h3 id="software-engineer-at-agileware-january-2015march-2016">Software
+Engineer at Agileware January 2015–March 2016</h3>
 <ul>
-<li>Developed web applications using Drupal, CiviCRM, and Wordpress <em>PHP</em></li>
+<li>Developed web applications using Drupal, CiviCRM, and Wordpress
+<em>PHP</em></li>
 </ul>
-<h3 id="tutor-at-anu-college-of-engineering-and-computer-science-semester-1-2012-and-2014">Tutor at ANU College of Engineering and Computer Science Semester 1, 2012 and 2014</h3>
+<h3
+id="tutor-at-anu-college-of-engineering-and-computer-science-semester-1-2012-and-2014">Tutor
+at ANU College of Engineering and Computer Science Semester 1, 2012 and
+2014</h3>
 <ul>
-<li>Tutored COMP1100 Introduction to Programming and Algorithms <em>Haskell</em></li>
-<li>Taught computer science concepts with a strong emphasis on functional programming</li>
+<li>Tutored COMP1100 Introduction to Programming and Algorithms
+<em>Haskell</em></li>
+<li>Taught computer science concepts with a strong emphasis on
+functional programming</li>
 </ul>
 <h2 id="education">Education</h2>
 <h3 id="recurse-center-fall-1-2016">Recurse Center, Fall 1 2016</h3>
 <ul>
-<li>Learned Haskell by implementing Git parsers and serialisers <em>Haskell</em></li>
-<li>Made a Git internals workshop and a web service that serves a Git repository as JSON</li>
-<li>Presented at the September meeting of the New York Haskell Users Group and Hack &amp;&amp; Tell 39</li>
-<li>Contributed to the Glasgow Haskell Compiler and the IHaskell Jupyter kernel</li>
+<li>Learned Haskell by implementing Git parsers and serialisers
+<em>Haskell</em></li>
+<li>Made a Git internals workshop and a web service that serves a Git
+repository as JSON</li>
+<li>Presented at the September meeting of the New York Haskell Users
+Group and Hack &amp;&amp; Tell 39</li>
+<li>Contributed to the Glasgow Haskell Compiler and the IHaskell Jupyter
+kernel</li>
 </ul>
-<h3 id="b.-it-software-developmentb.-economics-australian-national-university-class-of-2013">B. IT (Software Development)/B. Economics, Australian National University, Class of 2013</h3>
+<h3
+id="b.-it-software-developmentb.-economics-australian-national-university-class-of-2013">B.
+IT (Software Development)/B. Economics, Australian National University,
+Class of 2013</h3>
 <script>
   (function() {
     var script = document.createElement('script');
