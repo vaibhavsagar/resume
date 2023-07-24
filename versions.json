@@ -2,8 +2,8 @@
   "nixpkgs": {
     "owner": "NixOS",
     "repo": "nixpkgs",
-    "branch": "nixos-21.11",
-    "rev": "af0a9bc0e5341855518e9c1734d7ef913e5138b9",
-    "sha256": "0qqxa8xpy1k80v5al45bsxqfs3n6cphm9nki09q7ara7yf7yyrh1"
+    "branch": "nixos-23.05",
+    "rev": "6da4bc6cb07cba1b8e53d139cbf1d2fb8061d967",
+    "sha256": "0jgcqcbj41g04w4b48c6z4x2mrjx41i36lp6rzh9h4r1cdm74prm"
   }
 }
