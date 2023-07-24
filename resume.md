@@ -7,17 +7,18 @@ linkedin.com/in/vaibhavsagar
 
 ## Experience ##
 
-### Senior Software Engineer at Mercury \hfill March 2022--Present
+### Senior Software Engineer at Mercury \hfill March 2022--June 2023
 
 - Building the best banking stack for startups \hfill _Haskell & Nix_
+- Worked on the Support Product and Growth teams
+- Implemented features including seamless customer reimbursement, "magic" links
+  for new applicants, recipient invites, and queued payments to recipients
 
 ### Software Engineer II at KeyMe Locksmiths \hfill May 2020--February 2022
 
 - Part of the Control Systems team working on the kiosk codebase \hfill _Python
   & Haskell_
-- Implemented a memory-monitoring service for our kiosks
-- Enabled audit logging of shell sessions to meet a tight PCI compliance
-  deadline
+- Built a memory-monitoring service for our kiosks
 - Implemented support for the Ingenico iUC285 reader, enabling our kiosks to
   accept contactless and chip insert payments
 
@@ -34,8 +35,6 @@ linkedin.com/in/vaibhavsagar
 
 - Developing and supporting our custom cloud platform \hfill _Nix/NixOS_
 - Practicing reproducible, immutable, and functional infrastructure
-- Engineering for high availability and zero downtime
-- Participating in an on-call rotation on a small team
 - Spoke at linux.conf.au, !!Con, and YOW! Lambda Jam
 
 ### Software Engineer at Agileware \hfill January 2015--March 2016 ###
