@@ -16,8 +16,8 @@ linkedin.com/in/vaibhavsagar
 
 ### Software Engineer II, KeyMe Locksmiths \hfill May 2020--February 2022
 
-- Part of the Control Systems team working on the kiosk codebase \hfill _Python
-  & Haskell_
+- Part of the Control Systems team working on the kiosk codebase \hfill
+  _Haskell & Python_
 - Built a memory-monitoring service for our kiosks
 - Implemented support for the Ingenico iUC285 reader, enabling our kiosks to
   accept contactless and chip insert payments
@@ -33,7 +33,7 @@ linkedin.com/in/vaibhavsagar
 
 ### Software Engineer - Global DevOps, ZALORA \hfill April 2017--July 2018
 
-- Developing and supporting our custom cloud platform \hfill _Nix/NixOS_
+- Developing and supporting our custom cloud platform \hfill _Nix & NixOS_
 - Practicing reproducible, immutable, and functional infrastructure
 - Spoke at linux.conf.au, !!Con, and YOW! Lambda Jam
 
