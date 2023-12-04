@@ -12,21 +12,21 @@ let
 in rec {
   html   = pkgs.runCommand "html" {
     inherit src;
-    buildInputs = [ pkgs.haskellPackages.pandoc ];
+    buildInputs = [ pkgs.haskellPackages.pandoc-cli ];
   } ''
     mkdir -p $out
     pandoc $src/resume.md -s -H $src/templates/header.css -A $src/templates/tracking.html -t html -o $out/index.html
   '';
   pdf    = pkgs.runCommand "pdf" {
     inherit src;
-    buildInputs = [ pkgs.haskellPackages.pandoc tex ];
+    buildInputs = [ pkgs.haskellPackages.pandoc-cli tex ];
   } ''
     mkdir -p $out
     pandoc $src/resume.md -H $src/templates/header.tex -o $out/Vaibhav_Sagar_resume.pdf
   '';
   readme = pkgs.runCommand "readme" {
     inherit src;
-    buildInputs = [ pkgs.haskellPackages.pandoc ];
+    buildInputs = [ pkgs.haskellPackages.pandoc-cli ];
   } ''
     mkdir -p $out
     pandoc $src/resume.md -t gfm -o $out/readme.md
