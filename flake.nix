@@ -40,7 +40,7 @@
         '';
         ci = pkgs.buildEnv {
           name = "ci";
-          paths = [ html readme ];
+          paths = [ html readme pdf ];
         };
       };
       defaultPackage = self.packages.${system}.ci;

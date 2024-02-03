@@ -10,6 +10,10 @@ jobs:
       with:
         skip_adding_nixpkgs_channel: true
     - run: nix-build
+    - uses: actions/upload-artifact@v4
+      with:
+        name: vaibhav-sagar-resume
+        path: result/Vaibhav_Sagar_resume.pdf
     - run: ./.github/workflows/update_pages.sh
       env:
         GITHUB_TOKEN: ${{ github.token }}
