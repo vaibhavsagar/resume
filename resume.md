@@ -1,9 +1,7 @@
 % Vaibhav Sagar
 
-vaibhavsagar@gmail.com       \hfill
-vaibhavsagar.com             \hfill
-github.com/vaibhavsagar      \hfill
-linkedin.com/in/vaibhavsagar
+vaibhavsagar{@gmail.com,.com}             \hfill
+{github.com,linkedin.com/in}/vaibhavsagar \hfill
 
 ## Experience ##
 
