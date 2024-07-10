@@ -1,5 +1,4 @@
-vaibhavsagar@gmail.com vaibhavsagar.com github.com/vaibhavsagar
-linkedin.com/in/vaibhavsagar
+vaibhavsagar{@gmail.com,.com} {github.com,linkedin.com/in}/vaibhavsagar
 
 ## Experience
 
