@@ -7,6 +7,10 @@ linkedin.com/in/vaibhavsagar
 
 ## Experience ##
 
+### Senior Software Engineer, Evenergi \hfill April 2024--Present
+
+- Building fleet management software for electric vehicles \hfill _Python_
+
 ### Senior Software Engineer, Mercury \hfill March 2022--June 2023
 
 - Building the best banking stack for startups \hfill _Haskell & Nix_
@@ -36,10 +40,6 @@ linkedin.com/in/vaibhavsagar
 - Developing and supporting our custom cloud platform \hfill _Nix & NixOS_
 - Practicing reproducible, immutable, and functional infrastructure
 - Spoke at linux.conf.au, !!Con, and YOW! Lambda Jam
-
-### Software Engineer, Agileware \hfill January 2015--March 2016 ###
-
-- Developed web applications using Drupal, CiviCRM, and Wordpress \hfill _PHP_
 
 ### Tutor, ANU College of Engineering and Computer Science \hfill Semester 1, 2012 and 2014 ###
 
