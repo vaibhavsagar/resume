@@ -1,8 +1,9 @@
-vaibhavsagar{@gmail.com,.com} {github.com,linkedin.com/in}/vaibhavsagar
+vaibhavsagar@gmail.com linkedin.com/in/vaibhavsagar vaibhavsagar.com
+github.com/vaibhavsagar
 
 ## Experience
 
-### Senior Software Engineer, Evenergi April 2024–Present
+### Senior Software Engineer, Evenergi April 2024–August 2024
 
 - Building fleet management software for electric vehicles *Python*
 
