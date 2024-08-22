@@ -1,11 +1,13 @@
 % Vaibhav Sagar
 
-vaibhavsagar{@gmail.com,.com}             \hfill
-{github.com,linkedin.com/in}/vaibhavsagar \hfill
+vaibhavsagar@gmail.com             \hfill
+linkedin.com/in/vaibhavsagar       \hfill
+vaibhavsagar.com                   \hfill
+github.com/vaibhavsagar            \hfill
 
 ## Experience ##
 
-### Senior Software Engineer, Evenergi \hfill April 2024--Present
+### Senior Software Engineer, Evenergi \hfill April 2024--August 2024
 
 - Building fleet management software for electric vehicles \hfill _Python_
 
