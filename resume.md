@@ -7,9 +7,9 @@ github.com/vaibhavsagar            \hfill
 
 ## Experience ##
 
-### Senior Software Engineer, Evenergi \hfill April 2024--August 2024
+### Developer, UpTrust \hfill November 2024--Present
 
-- Building fleet management software for electric vehicles \hfill _Python_
+- Building social media for civilizational well-being \hfill _Haskell & Nix_
 
 ### Senior Software Engineer, Mercury \hfill March 2022--June 2023
 
