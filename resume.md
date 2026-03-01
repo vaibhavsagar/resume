@@ -10,11 +10,12 @@ github.com/vaibhavsagar            \hfill
 ### Developer, UpTrust \hfill November 2024--Present
 
 - Building social media for civilizational well-being \hfill _Haskell & Nix_
+- Implemented backend features including integrations with Mailtrap and Slack,
+  public post and comment APIs, and our waitlist
 
 ### Senior Software Engineer, Mercury \hfill March 2022--June 2023
 
 - Building the best banking stack for startups \hfill _Haskell & Nix_
-- Worked on the Support Product and Growth teams
 - Implemented features including seamless customer reimbursement, "magic" links
   for new applicants, recipient invites, and queued payments to recipients
 
@@ -22,7 +23,6 @@ github.com/vaibhavsagar            \hfill
 
 - Part of the Control Systems team working on the kiosk codebase \hfill
   _Haskell & Python_
-- Built a memory-monitoring service for our kiosks
 - Implemented support for the Ingenico iUC285 reader, enabling our kiosks to
   accept contactless and chip insert payments
 
