@@ -6,11 +6,12 @@ github.com/vaibhavsagar
 ### Developer, UpTrust November 2024–Present
 
 - Building social media for civilizational well-being *Haskell & Nix*
+- Implemented backend features including integrations with Mailtrap and
+  Slack, public post and comment APIs, and our waitlist
 
 ### Senior Software Engineer, Mercury March 2022–June 2023
 
 - Building the best banking stack for startups *Haskell & Nix*
-- Worked on the Support Product and Growth teams
 - Implemented features including seamless customer reimbursement,
   “magic” links for new applicants, recipient invites, and queued
   payments to recipients
@@ -19,7 +20,6 @@ github.com/vaibhavsagar
 
 - Part of the Control Systems team working on the kiosk codebase
   *Haskell & Python*
-- Built a memory-monitoring service for our kiosks
 - Implemented support for the Ingenico iUC285 reader, enabling our
   kiosks to accept contactless and chip insert payments
 
