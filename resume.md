@@ -7,7 +7,7 @@ github.com/vaibhavsagar            \hfill
 
 ## Experience ##
 
-### Developer, UpTrust \hfill November 2024--Present
+### Developer, UpTrust \hfill November 2024--February 2026
 
 - Building social media for civilizational well-being \hfill _Haskell & Nix_
 - Implemented backend features including integrations with Mailtrap and Slack,
