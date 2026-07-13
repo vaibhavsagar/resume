@@ -3,7 +3,7 @@ github.com/vaibhavsagar
 
 ## Experience
 
-### Developer, UpTrust November 2024–Present
+### Developer, UpTrust November 2024–February 2026
 
 - Building social media for civilizational well-being *Haskell & Nix*
 - Implemented backend features including integrations with Mailtrap and
